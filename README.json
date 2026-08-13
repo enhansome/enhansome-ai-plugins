@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T02:15:51Z",
+            "last_commit": "2026-08-13T13:35:02Z",
             "owner": "hashgraph-online",
             "repo": "hol-guard",
-            "stars": 432
+            "stars": 433
           }
         },
         {
@@ -68,7 +68,7 @@
             "last_commit": "2026-08-09T10:35:32Z",
             "owner": "alirezarezvani",
             "repo": "claude-skills",
-            "stars": 24359
+            "stars": 24376
           }
         },
         {
@@ -82,7 +82,7 @@
             "last_commit": "2026-08-08T14:08:38Z",
             "owner": "SamurAIGPT",
             "repo": "Generative-Media-Skills",
-            "stars": 4041
+            "stars": 4044
           }
         },
         {
@@ -93,10 +93,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-12T18:58:19Z",
+            "last_commit": "2026-08-13T12:18:06Z",
             "owner": "nyldn",
             "repo": "claude-octopus",
-            "stars": 3959
+            "stars": 3961
           }
         },
         {
@@ -107,7 +107,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-31T19:04:33Z",
+            "last_commit": "2026-08-13T05:49:18Z",
             "owner": "study8677",
             "repo": "repobrain",
             "stars": 1307
@@ -135,10 +135,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T14:05:57Z",
+            "last_commit": "2026-08-13T11:13:13Z",
             "owner": "GanyuanRan",
             "repo": "Aegis",
-            "stars": 991
+            "stars": 992
           }
         },
         {
@@ -152,7 +152,7 @@
             "last_commit": "2026-08-10T04:13:01Z",
             "owner": "MageByte-Zero",
             "repo": "spec-superflow",
-            "stars": 737
+            "stars": 738
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-08-12T20:15:35Z",
             "owner": "ooples",
             "repo": "token-optimizer-mcp",
-            "stars": 479
+            "stars": 480
           }
         },
         {
@@ -191,10 +191,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T16:41:31Z",
+            "last_commit": "2026-08-13T12:45:12Z",
             "owner": "ndycode",
             "repo": "codex-multi-auth",
-            "stars": 440
+            "stars": 441
           }
         },
         {
@@ -362,7 +362,7 @@
             "last_commit": "2026-08-12T23:52:29Z",
             "owner": "MedAdemBHA",
             "repo": "docflow",
-            "stars": 34
+            "stars": 37
           }
         },
         {
@@ -376,7 +376,7 @@
             "last_commit": "2026-08-12T20:07:29Z",
             "owner": "Abhigyan-Shekhar",
             "repo": "Waggle-mcp",
-            "stars": 34
+            "stars": 35
           }
         },
         {
@@ -443,7 +443,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T03:40:40Z",
+            "last_commit": "2026-08-13T08:53:55Z",
             "owner": "NotNull92",
             "repo": "hera-agent-unity",
             "stars": 25
@@ -499,7 +499,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T09:35:46Z",
+            "last_commit": "2026-08-13T09:40:33Z",
             "owner": "vishal2612200",
             "repo": "agentpack",
             "stars": 23
@@ -555,10 +555,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T21:48:33Z",
+            "last_commit": "2026-08-13T12:39:56Z",
             "owner": "mimfort",
             "repo": "rag_for_git",
-            "stars": 18
+            "stars": 19
           }
         },
         {
@@ -583,7 +583,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T09:52:59Z",
+            "last_commit": "2026-08-13T05:02:08Z",
             "owner": "epicsagas",
             "repo": "alcove",
             "stars": 15
@@ -891,7 +891,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-06T13:46:05Z",
+            "last_commit": "2026-08-13T09:04:29Z",
             "owner": "GSkuza",
             "repo": "BABOK_ANALYST",
             "stars": 6
@@ -919,7 +919,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T03:30:47Z",
+            "last_commit": "2026-08-13T10:26:17Z",
             "owner": "zagrosi-code",
             "repo": "zagrosi-forge",
             "stars": 6
@@ -1045,7 +1045,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-11T11:28:01Z",
+            "last_commit": "2026-08-13T12:49:21Z",
             "owner": "hashgraph-online",
             "repo": "hol-guard-plugin",
             "stars": 3
@@ -1185,7 +1185,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T01:04:17Z",
+            "last_commit": "2026-08-13T09:54:32Z",
             "owner": "s977043",
             "repo": "river-review",
             "stars": 2
@@ -1311,7 +1311,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T13:47:08Z",
+            "last_commit": "2026-08-13T13:15:29Z",
             "owner": "sh-ai-x",
             "repo": "dev-harness-kit",
             "stars": 1
@@ -1395,7 +1395,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-07T02:59:26Z",
+            "last_commit": "2026-08-13T05:39:21Z",
             "owner": "runtypelabs",
             "repo": "skills",
             "stars": 1
@@ -1479,7 +1479,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T23:41:48Z",
+            "last_commit": "2026-08-13T10:52:02Z",
             "owner": "not-so-fat",
             "repo": "agent-deck",
             "stars": 0
@@ -1628,7 +1628,7 @@
             "last_commit": "2026-08-01T20:44:02Z",
             "owner": "aklofas",
             "repo": "kicad-happy",
-            "stars": 951
+            "stars": 952
           }
         },
         {
@@ -1656,7 +1656,7 @@
             "last_commit": "2026-08-10T12:50:35Z",
             "owner": "GarethManning",
             "repo": "education-agent-skills",
-            "stars": 608
+            "stars": 611
           }
         },
         {
@@ -1670,7 +1670,7 @@
             "last_commit": "2026-08-09T13:33:19Z",
             "owner": "sergebulaev",
             "repo": "linkedin-skills",
-            "stars": 541
+            "stars": 546
           }
         },
         {
@@ -1698,7 +1698,7 @@
             "last_commit": "2026-08-12T19:58:28Z",
             "owner": "talkstream",
             "repo": "ru-text",
-            "stars": 194
+            "stars": 195
           }
         },
         {
@@ -1726,7 +1726,7 @@
             "last_commit": "2026-08-12T10:55:28Z",
             "owner": "avivsinai",
             "repo": "bitbucket-cli",
-            "stars": 183
+            "stars": 184
           }
         },
         {
@@ -1737,7 +1737,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T03:57:03Z",
+            "last_commit": "2026-08-13T04:06:26Z",
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
             "stars": 178
@@ -1754,7 +1754,7 @@
             "last_commit": "2026-08-11T17:18:05Z",
             "owner": "ndycode",
             "repo": "oc-codex-multi-auth",
-            "stars": 169
+            "stars": 170
           }
         },
         {
@@ -1793,7 +1793,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T10:37:12Z",
+            "last_commit": "2026-08-13T07:47:55Z",
             "owner": "avivsinai",
             "repo": "agent-message-queue",
             "stars": 81
@@ -1824,7 +1824,7 @@
             "last_commit": "2026-08-11T08:00:38Z",
             "owner": "CALLE-AI",
             "repo": "call-e-integrations",
-            "stars": 72
+            "stars": 74
           }
         },
         {
@@ -1947,7 +1947,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T15:13:14Z",
+            "last_commit": "2026-08-13T04:59:02Z",
             "owner": "Xquik-dev",
             "repo": "hermes-tweet",
             "stars": 26
@@ -2048,7 +2048,7 @@
             "last_commit": "2026-08-12T14:22:29Z",
             "owner": "hanhuark",
             "repo": "mechanical-engineering-research-skill",
-            "stars": 14
+            "stars": 15
           }
         },
         {
@@ -2081,6 +2081,20 @@
         },
         {
           "node_type": "item",
+          "title": "Codex Mem",
+          "description": "Automatically capture, compress, and inject session context back into future Codex sessions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-23T17:47:48Z",
+            "owner": "2kDarki",
+            "repo": "codex-mem",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Context Pack",
           "description": "Generate compact first-pass repository briefings for coding agents before deeper exploration.",
           "children": [],
@@ -2091,20 +2105,6 @@
             "owner": "Rothschildiuk",
             "repo": "context-pack",
             "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Codex Mem",
-          "description": "Automatically capture, compress, and inject session context back into future Codex sessions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-03-23T17:47:48Z",
-            "owner": "2kDarki",
-            "repo": "codex-mem",
-            "stars": 9
           }
         },
         {
@@ -2255,7 +2255,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T14:57:57Z",
+            "last_commit": "2026-08-13T12:59:42Z",
             "owner": "lacs-project",
             "repo": "sysknife",
             "stars": 5
@@ -2339,7 +2339,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-10T15:10:09Z",
+            "last_commit": "2026-08-13T12:05:53Z",
             "owner": "happy520ai",
             "repo": "unified-ai-system",
             "stars": 4
@@ -2493,7 +2493,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T21:13:20Z",
+            "last_commit": "2026-08-13T13:31:16Z",
             "owner": "alelaguard",
             "repo": "agentguards-plugins",
             "stars": 1
@@ -2535,7 +2535,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-06T09:14:15Z",
+            "last_commit": "2026-08-13T09:15:26Z",
             "owner": "mbanderas",
             "repo": "costguard",
             "stars": 1
@@ -2869,7 +2869,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:59:08.302Z",
+    "last_updated": "2026-08-13T13:35:59.393Z",
     "original_repository": "hashgraph-online/awesome-ai-plugins",
     "original_repository_sha": "baedc6c80e93c869f9d4bc20c685e35368c7189d",
     "enhanced_repository": "enhansome/enhansome-ai-plugins",

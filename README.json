@@ -12,7 +12,7 @@
             "archived": false,
             "id": 1194748811,
             "language": "Python",
-            "last_commit": "2026-08-19T09:04:40Z",
+            "last_commit": "2026-08-19T13:00:36Z",
             "owner": "hashgraph-online",
             "repo": "hol-guard",
             "stars": 453
@@ -53,7 +53,7 @@
                 "last_commit": "2026-08-17T02:43:44Z",
                 "owner": "alirezarezvani",
                 "repo": "claude-skills",
-                "stars": 24654
+                "stars": 24655
               }
             },
             {
@@ -125,7 +125,7 @@
                 "archived": false,
                 "id": 1225840521,
                 "language": "Python",
-                "last_commit": "2026-08-18T01:16:08Z",
+                "last_commit": "2026-08-19T12:16:35Z",
                 "owner": "GanyuanRan",
                 "repo": "Aegis",
                 "stars": 1067
@@ -233,7 +233,7 @@
                 "last_commit": "2026-08-18T18:14:30Z",
                 "owner": "ohad6k",
                 "repo": "emulo",
-                "stars": 265
+                "stars": 266
               }
             },
             {
@@ -575,7 +575,7 @@
                 "archived": false,
                 "id": 1261842465,
                 "language": "Python",
-                "last_commit": "2026-08-19T11:51:43Z",
+                "last_commit": "2026-08-19T12:29:22Z",
                 "owner": "mimfort",
                 "repo": "rag_for_git",
                 "stars": 20
@@ -1175,7 +1175,7 @@
                 "archived": false,
                 "id": 1240712063,
                 "language": "JavaScript",
-                "last_commit": "2026-08-19T12:08:44Z",
+                "last_commit": "2026-08-19T12:15:27Z",
                 "owner": "hashgraph-online",
                 "repo": "hol-guard-plugin",
                 "stars": 3
@@ -1415,7 +1415,7 @@
                 "archived": false,
                 "id": 1288974700,
                 "language": "Python",
-                "last_commit": "2026-08-19T12:06:00Z",
+                "last_commit": "2026-08-19T12:55:53Z",
                 "owner": "sh-ai-x",
                 "repo": "dev-harness-kit",
                 "stars": 1
@@ -1770,7 +1770,7 @@
                 "last_commit": "2026-08-18T06:35:48Z",
                 "owner": "citrolabs",
                 "repo": "ego-lite",
-                "stars": 11970
+                "stars": 11982
               }
             },
             {
@@ -1800,7 +1800,7 @@
                 "last_commit": "2026-08-17T10:50:14Z",
                 "owner": "indranilbanerjee",
                 "repo": "digital-marketing-pro",
-                "stars": 754
+                "stars": 756
               }
             },
             {
@@ -1815,7 +1815,7 @@
                 "last_commit": "2026-08-10T12:50:35Z",
                 "owner": "GarethManning",
                 "repo": "education-agent-skills",
-                "stars": 631
+                "stars": 632
               }
             },
             {
@@ -1962,7 +1962,7 @@
                 "archived": false,
                 "id": 1122637774,
                 "language": "Go",
-                "last_commit": "2026-08-19T12:13:39Z",
+                "last_commit": "2026-08-19T12:53:47Z",
                 "owner": "avivsinai",
                 "repo": "agent-message-queue",
                 "stars": 82
@@ -2037,7 +2037,7 @@
                 "archived": false,
                 "id": 1286762321,
                 "language": "Python",
-                "last_commit": "2026-08-09T13:33:20Z",
+                "last_commit": "2026-08-19T12:44:07Z",
                 "owner": "sergebulaev",
                 "repo": "x-skills",
                 "stars": 46
@@ -3098,10 +3098,10 @@
             "archived": false,
             "id": 1333175049,
             "language": "Python",
-            "last_commit": "2026-08-19T10:14:42Z",
+            "last_commit": "2026-08-19T12:36:31Z",
             "owner": "awesome-dsh-plugin",
             "repo": "awesome-dsh-plugin",
-            "stars": 9777
+            "stars": 9836
           }
         },
         {
@@ -3113,10 +3113,10 @@
             "archived": false,
             "id": 1246459259,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:14:02Z",
+            "last_commit": "2026-08-19T12:34:23Z",
             "owner": "MoonshotAI",
             "repo": "kimi-code",
-            "stars": 6914
+            "stars": 6915
           }
         },
         {
@@ -3154,7 +3154,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:14:14.985Z",
+    "last_updated": "2026-08-19T13:01:17.564Z",
     "original_repository": "hashgraph-online/awesome-ai-plugins",
     "original_repository_id": 1204165322,
     "original_repository_sha": "0d395716ff1d27993d5cd05218e3ba647251172d",

@@ -5,29 +5,29 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Validate with — Required: score ≥ 80, no high/critical findings",
+          "title": "Validate with — recommended local preflight",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1194748811,
             "language": "Python",
-            "last_commit": "2026-08-22T09:33:05Z",
+            "last_commit": "2026-08-23T11:05:37Z",
             "owner": "hashgraph-online",
             "repo": "hol-guard",
-            "stars": 459
+            "stars": 463
           }
         },
         {
           "node_type": "item",
-          "title": "Gate PRs with the HOL scanner GitHub Action — Required for listing",
+          "title": "Optionally add the HOL scanner GitHub Action — optional continuous scanning",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1205159823,
             "language": null,
-            "last_commit": "2026-08-21T19:10:47Z",
+            "last_commit": "2026-08-22T16:56:37Z",
             "owner": "hashgraph-online",
             "repo": "ai-plugin-scanner-action",
             "stars": 4
@@ -53,7 +53,7 @@
                 "last_commit": "2026-08-21T09:39:58Z",
                 "owner": "alirezarezvani",
                 "repo": "claude-skills",
-                "stars": 24795
+                "stars": 24835
               }
             },
             {
@@ -68,7 +68,7 @@
                 "last_commit": "2026-08-20T12:57:12Z",
                 "owner": "SamurAIGPT",
                 "repo": "Generative-Media-Skills",
-                "stars": 4117
+                "stars": 4126
               }
             },
             {
@@ -83,7 +83,7 @@
                 "last_commit": "2026-08-22T04:40:30Z",
                 "owner": "nyldn",
                 "repo": "claude-octopus",
-                "stars": 3994
+                "stars": 3995
               }
             },
             {
@@ -98,7 +98,7 @@
                 "last_commit": "2026-08-20T14:20:43Z",
                 "owner": "hyhmrright",
                 "repo": "brooks-lint",
-                "stars": 1405
+                "stars": 1406
               }
             },
             {
@@ -125,10 +125,10 @@
                 "archived": false,
                 "id": 1225840521,
                 "language": "Python",
-                "last_commit": "2026-08-22T01:32:55Z",
+                "last_commit": "2026-08-23T06:12:39Z",
                 "owner": "GanyuanRan",
                 "repo": "Aegis",
-                "stars": 1098
+                "stars": 1116
               }
             },
             {
@@ -143,7 +143,7 @@
                 "last_commit": "2026-08-16T13:01:03Z",
                 "owner": "MageByte-Zero",
                 "repo": "spec-superflow",
-                "stars": 758
+                "stars": 759
               }
             },
             {
@@ -158,7 +158,7 @@
                 "last_commit": "2026-08-16T16:04:27Z",
                 "owner": "echoVic",
                 "repo": "boss-skill",
-                "stars": 547
+                "stars": 546
               }
             },
             {
@@ -170,10 +170,10 @@
                 "archived": false,
                 "id": 1074311731,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T23:49:00Z",
+                "last_commit": "2026-08-23T00:11:14Z",
                 "owner": "ooples",
                 "repo": "token-optimizer-mcp",
-                "stars": 491
+                "stars": 493
               }
             },
             {
@@ -188,7 +188,7 @@
                 "last_commit": "2026-08-20T23:45:30Z",
                 "owner": "ndycode",
                 "repo": "codex-multi-auth",
-                "stars": 456
+                "stars": 457
               }
             },
             {
@@ -200,10 +200,10 @@
                 "archived": false,
                 "id": 1090518613,
                 "language": "Go",
-                "last_commit": "2026-08-21T21:52:19Z",
+                "last_commit": "2026-08-23T06:22:16Z",
                 "owner": "boshu2",
                 "repo": "agentops",
-                "stars": 429
+                "stars": 428
               }
             },
             {
@@ -248,7 +248,7 @@
                 "last_commit": "2026-08-17T02:24:38Z",
                 "owner": "sendbird",
                 "repo": "cc-plugin-codex",
-                "stars": 177
+                "stars": 179
               }
             },
             {
@@ -293,7 +293,7 @@
                 "last_commit": "2026-08-14T06:36:11Z",
                 "owner": "labring",
                 "repo": "sealos-skills",
-                "stars": 73
+                "stars": 75
               }
             },
             {
@@ -335,10 +335,10 @@
                 "archived": false,
                 "id": 1199817646,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T05:15:41Z",
+                "last_commit": "2026-08-23T12:19:54Z",
                 "owner": "Kanevry",
                 "repo": "session-orchestrator",
-                "stars": 47
+                "stars": 48
               }
             },
             {
@@ -380,10 +380,10 @@
                 "archived": false,
                 "id": 1208339504,
                 "language": "Python",
-                "last_commit": "2026-08-21T18:24:47Z",
+                "last_commit": "2026-08-23T10:37:48Z",
                 "owner": "Abhigyan-Shekhar",
                 "repo": "Waggle-mcp",
-                "stars": 36
+                "stars": 37
               }
             },
             {
@@ -530,7 +530,7 @@
                 "archived": false,
                 "id": 1223833961,
                 "language": "Python",
-                "last_commit": "2026-08-21T16:24:24Z",
+                "last_commit": "2026-08-23T05:23:07Z",
                 "owner": "vishal2612200",
                 "repo": "agentpack",
                 "stars": 24
@@ -545,7 +545,7 @@
                 "archived": false,
                 "id": 1218462294,
                 "language": null,
-                "last_commit": "2026-08-16T03:13:03Z",
+                "last_commit": "2026-08-23T03:13:04Z",
                 "owner": "Dkm0315",
                 "repo": "frappe-agent",
                 "stars": 23
@@ -575,7 +575,7 @@
                 "archived": false,
                 "id": 1261842465,
                 "language": "Python",
-                "last_commit": "2026-08-20T22:19:59Z",
+                "last_commit": "2026-08-23T01:03:02Z",
                 "owner": "mimfort",
                 "repo": "rag_for_git",
                 "stars": 20
@@ -713,7 +713,7 @@
                 "last_commit": "2026-08-01T01:20:10Z",
                 "owner": "sirmarkz",
                 "repo": "staff-engineer-mode",
-                "stars": 12
+                "stars": 13
               }
             },
             {
@@ -793,6 +793,21 @@
             },
             {
               "node_type": "item",
+              "title": "trigger-tree",
+              "description": "Local documentation telemetry for Claude Code and Codex: see which docs your agent actually reads, gate discoverability in CI, and measure instruction adherence.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1303972604,
+                "language": "Python",
+                "last_commit": "2026-08-17T12:41:53Z",
+                "owner": "Hedde",
+                "repo": "trigger_tree",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
               "title": "UIZZE",
               "description": "STOP UI SLOP. Gives Codex 800,000+ real web and iOS screens, a product-specific design contract, and a hard finish gate before generic UI ships; connect it at https://uizze.com.",
               "children": [],
@@ -800,7 +815,7 @@
                 "archived": false,
                 "id": 1301842069,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T19:03:59Z",
+                "last_commit": "2026-08-23T10:14:01Z",
                 "owner": "uizze",
                 "repo": "uizze",
                 "stars": 11
@@ -838,6 +853,21 @@
             },
             {
               "node_type": "item",
+              "title": "Clean Room",
+              "description": "Spec-first clean-room workflow for authorized source analysis, behavioral specs, role separation, and verification without replacement code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1244533126,
+                "language": "JavaScript",
+                "last_commit": "2026-08-19T20:33:48Z",
+                "owner": "whit3rabbit",
+                "repo": "clean-room-skill",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Spec-Driven Development",
               "description": "Three-phase Requirements → Design → Tasks workflow for Claude Code and Codex — EARS notation acceptance criteria, autonomous execution loop, cross-spec dependencies, and post-implementation acceptance testing.",
               "children": [],
@@ -849,36 +879,6 @@
                 "owner": "Habib0x0",
                 "repo": "spec-driven-plugin",
                 "stars": 10
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "trigger-tree",
-              "description": "Local documentation telemetry for Claude Code and Codex: see which docs your agent actually reads, gate discoverability in CI, and measure instruction adherence.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1303972604,
-                "language": "Python",
-                "last_commit": "2026-08-17T12:41:53Z",
-                "owner": "Hedde",
-                "repo": "trigger_tree",
-                "stars": 10
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Clean Room",
-              "description": "Spec-first clean-room workflow for authorized source analysis, behavioral specs, role separation, and verification without replacement code.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1244533126,
-                "language": "JavaScript",
-                "last_commit": "2026-08-19T20:33:48Z",
-                "owner": "whit3rabbit",
-                "repo": "clean-room-skill",
-                "stars": 9
               }
             },
             {
@@ -920,7 +920,7 @@
                 "archived": false,
                 "id": 1229274217,
                 "language": "Python",
-                "last_commit": "2026-08-21T19:16:48Z",
+                "last_commit": "2026-08-23T05:05:28Z",
                 "owner": "bcanfield",
                 "repo": "agentic-tech-debt",
                 "stars": 8
@@ -965,7 +965,7 @@
                 "archived": false,
                 "id": 1157994685,
                 "language": "Go",
-                "last_commit": "2026-08-20T03:38:51Z",
+                "last_commit": "2026-08-23T11:33:06Z",
                 "owner": "tartinerlabs",
                 "repo": "skills",
                 "stars": 7
@@ -1013,6 +1013,36 @@
                 "last_commit": "2026-08-21T08:13:15Z",
                 "owner": "armoriq",
                 "repo": "armorCodex",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Codex rg Guard",
+              "description": "Budgeted / replacement for Codex that narrows broad searches before they waste model context.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1232821706,
+                "language": "Rust",
+                "last_commit": "2026-05-09T08:09:40Z",
+                "owner": "Rycen7822",
+                "repo": "codex-rg-guard",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cover My Repo",
+              "description": "Designs three checked GitHub social preview cards with Codex or Cursor, then renders them locally with Chrome.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1339319939,
+                "language": "JavaScript",
+                "last_commit": "2026-08-23T12:28:07Z",
+                "owner": "sjh9714",
+                "repo": "cover-my-repo",
                 "stars": 5
               }
             },
@@ -1093,21 +1123,6 @@
             },
             {
               "node_type": "item",
-              "title": "Codex rg Guard",
-              "description": "Budgeted / replacement for Codex that narrows broad searches before they waste model context.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1232821706,
-                "language": "Rust",
-                "last_commit": "2026-05-09T08:09:40Z",
-                "owner": "Rycen7822",
-                "repo": "codex-rg-guard",
-                "stars": 4
-              }
-            },
-            {
-              "node_type": "item",
               "title": "Dev Skills",
               "description": "Team workflow skills for specs, plans, TDD, debugging, verification, review, branch finishing, and design context.",
               "children": [],
@@ -1130,7 +1145,7 @@
                 "archived": false,
                 "id": 1243835587,
                 "language": "Python",
-                "last_commit": "2026-08-21T22:44:54Z",
+                "last_commit": "2026-08-22T14:07:44Z",
                 "owner": "Maksim-Burtsev",
                 "repo": "simple-man",
                 "stars": 4
@@ -1205,7 +1220,7 @@
                 "archived": false,
                 "id": 1240712063,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T12:36:07Z",
+                "last_commit": "2026-08-22T13:54:36Z",
                 "owner": "hashgraph-online",
                 "repo": "hol-guard-plugin",
                 "stars": 3
@@ -1415,9 +1430,24 @@
                 "archived": false,
                 "id": 1288974700,
                 "language": "Python",
-                "last_commit": "2026-08-22T08:30:49Z",
+                "last_commit": "2026-08-23T12:34:02Z",
                 "owner": "sh-ai-x",
                 "repo": "dev-harness-kit",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Embedded Workbench",
+              "description": "Embedded C/C++ firmware development toolbox — 7 skills (FreeRTOS, Keil MDK, ARMCLANG, HardFault triage, state machines, LVGL) plus workflow gates and 4 agents for Claude Code, Codex, Cursor, Kimi, OpenCode, and ZCode.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1276714299,
+                "language": "JavaScript",
+                "last_commit": "2026-08-23T05:57:23Z",
+                "owner": "AmethystLuna",
+                "repo": "embedded-workbench",
                 "stars": 1
               }
             },
@@ -1430,7 +1460,7 @@
                 "archived": false,
                 "id": 1268704131,
                 "language": null,
-                "last_commit": "2026-08-15T21:32:33Z",
+                "last_commit": "2026-08-22T21:32:35Z",
                 "owner": "blackwell-systems",
                 "repo": "gcf-codex-plugin",
                 "stars": 1
@@ -1535,7 +1565,7 @@
                 "archived": false,
                 "id": 1149827769,
                 "language": "Python",
-                "last_commit": "2026-08-15T21:43:29Z",
+                "last_commit": "2026-08-22T21:42:44Z",
                 "owner": "yyykf",
                 "repo": "spellbook-skills",
                 "stars": 1
@@ -1610,7 +1640,7 @@
                 "archived": false,
                 "id": 1043364969,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T01:16:56Z",
+                "last_commit": "2026-08-23T01:12:52Z",
                 "owner": "not-so-fat",
                 "repo": "agent-deck",
                 "stars": 0
@@ -1658,21 +1688,6 @@
                 "last_commit": "2026-08-01T10:56:23Z",
                 "owner": "bnc4vk",
                 "repo": "codex-tui-proof",
-                "stars": 0
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Embedded Workbench",
-              "description": "Embedded C/C++ firmware development toolbox — 7 skills (FreeRTOS, Keil MDK, ARMCLANG, HardFault triage, state machines, LVGL) plus workflow gates and 4 agents for Claude Code, Codex, Cursor, Kimi, OpenCode, and ZCode.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1276714299,
-                "language": "JavaScript",
-                "last_commit": "2026-08-22T04:12:43Z",
-                "owner": "AmethystLuna",
-                "repo": "embedded-workbench",
                 "stars": 0
               }
             },
@@ -1770,7 +1785,7 @@
                 "last_commit": "2026-08-22T11:36:35Z",
                 "owner": "citrolabs",
                 "repo": "ego-lite",
-                "stars": 12654
+                "stars": 12846
               }
             },
             {
@@ -1785,7 +1800,7 @@
                 "last_commit": "2026-08-20T23:05:13Z",
                 "owner": "aklofas",
                 "repo": "kicad-happy",
-                "stars": 997
+                "stars": 1001
               }
             },
             {
@@ -1800,7 +1815,7 @@
                 "last_commit": "2026-08-17T10:50:14Z",
                 "owner": "indranilbanerjee",
                 "repo": "digital-marketing-pro",
-                "stars": 764
+                "stars": 765
               }
             },
             {
@@ -1815,7 +1830,7 @@
                 "last_commit": "2026-08-10T12:50:35Z",
                 "owner": "GarethManning",
                 "repo": "education-agent-skills",
-                "stars": 658
+                "stars": 662
               }
             },
             {
@@ -1827,10 +1842,10 @@
                 "archived": false,
                 "id": 1210670063,
                 "language": "Python",
-                "last_commit": "2026-08-21T14:22:20Z",
+                "last_commit": "2026-08-22T20:46:14Z",
                 "owner": "sergebulaev",
                 "repo": "linkedin-skills",
-                "stars": 579
+                "stars": 583
               }
             },
             {
@@ -1902,10 +1917,10 @@
                 "archived": false,
                 "id": 1168120544,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T11:56:21Z",
+                "last_commit": "2026-08-23T02:40:19Z",
                 "owner": "Xquik-dev",
                 "repo": "x-twitter-scraper",
-                "stars": 185
+                "stars": 186
               }
             },
             {
@@ -1920,7 +1935,22 @@
                 "last_commit": "2026-08-21T11:28:25Z",
                 "owner": "ndycode",
                 "repo": "oc-codex-multi-auth",
-                "stars": 177
+                "stars": 178
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "unslop",
+              "description": "Strip AI writing patterns from text output — removes filler phrases, hedging language, and generic constructs to produce cleaner written content. Install: .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1215400589,
+                "language": "Python",
+                "last_commit": "2026-08-21T03:33:44Z",
+                "owner": "MohamedAbdallah-14",
+                "repo": "unslop",
+                "stars": 106
               }
             },
             {
@@ -1940,17 +1970,17 @@
             },
             {
               "node_type": "item",
-              "title": "unslop",
-              "description": "Strip AI writing patterns from text output — removes filler phrases, hedging language, and generic constructs to produce cleaner written content. Install: .",
+              "title": "Call-E",
+              "description": "Plan, run, and inspect Call-E phone call workflows from Codex through the calle CLI.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "id": 1215400589,
-                "language": "Python",
-                "last_commit": "2026-08-21T03:33:44Z",
-                "owner": "MohamedAbdallah-14",
-                "repo": "unslop",
-                "stars": 103
+                "id": 1206570114,
+                "language": "JavaScript",
+                "last_commit": "2026-08-21T02:35:47Z",
+                "owner": "CALLE-AI",
+                "repo": "call-e-integrations",
+                "stars": 83
               }
             },
             {
@@ -1965,21 +1995,6 @@
                 "last_commit": "2026-08-22T11:15:34Z",
                 "owner": "avivsinai",
                 "repo": "agent-message-queue",
-                "stars": 82
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Call-E",
-              "description": "Plan, run, and inspect Call-E phone call workflows from Codex through the calle CLI.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1206570114,
-                "language": "JavaScript",
-                "last_commit": "2026-08-21T02:35:47Z",
-                "owner": "CALLE-AI",
-                "repo": "call-e-integrations",
                 "stars": 82
               }
             },
@@ -2040,7 +2055,7 @@
                 "last_commit": "2026-08-21T18:28:41Z",
                 "owner": "sergebulaev",
                 "repo": "x-skills",
-                "stars": 48
+                "stars": 49
               }
             },
             {
@@ -2220,7 +2235,7 @@
                 "last_commit": "2026-08-12T20:32:13Z",
                 "owner": "MohamedAbdallah-14",
                 "repo": "prompt-to-asset",
-                "stars": 17
+                "stars": 18
               }
             },
             {
@@ -2232,7 +2247,7 @@
                 "archived": false,
                 "id": 1171060534,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T19:10:26Z",
+                "last_commit": "2026-08-22T20:23:52Z",
                 "owner": "getcargohq",
                 "repo": "cargo-skills",
                 "stars": 15
@@ -2247,7 +2262,7 @@
                 "archived": false,
                 "id": 1237023621,
                 "language": "Python",
-                "last_commit": "2026-08-21T18:54:22Z",
+                "last_commit": "2026-08-23T03:13:35Z",
                 "owner": "hanhuark",
                 "repo": "mechanical-engineering-research-skill",
                 "stars": 15
@@ -2712,7 +2727,7 @@
                 "archived": false,
                 "id": 1193287934,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T03:44:56Z",
+                "last_commit": "2026-08-23T01:53:47Z",
                 "owner": "useorgx",
                 "repo": "orgx-codex-plugin",
                 "stars": 2
@@ -3098,10 +3113,10 @@
             "archived": false,
             "id": 1333175049,
             "language": "Python",
-            "last_commit": "2026-08-22T02:28:39Z",
+            "last_commit": "2026-08-23T03:42:34Z",
             "owner": "awesome-dsh-plugin",
             "repo": "awesome-dsh-plugin",
-            "stars": 11379
+            "stars": 11754
           }
         },
         {
@@ -3113,10 +3128,10 @@
             "archived": false,
             "id": 1246459259,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T10:25:04Z",
+            "last_commit": "2026-08-23T12:42:53Z",
             "owner": "MoonshotAI",
             "repo": "kimi-code",
-            "stars": 7001
+            "stars": 7016
           }
         },
         {
@@ -3128,7 +3143,7 @@
             "archived": false,
             "id": 1194181229,
             "language": "Python",
-            "last_commit": "2026-08-21T19:10:58Z",
+            "last_commit": "2026-08-22T16:56:45Z",
             "owner": "hashgraph-online",
             "repo": "awesome-codex-plugins",
             "stars": 833
@@ -3143,10 +3158,10 @@
             "archived": false,
             "id": 1240118170,
             "language": "Python",
-            "last_commit": "2026-08-21T23:45:19Z",
+            "last_commit": "2026-08-22T21:21:34Z",
             "owner": "xai-org",
             "repo": "plugin-marketplace",
-            "stars": 166
+            "stars": 169
           }
         }
       ],
@@ -3154,10 +3169,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T12:53:37.829Z",
+    "last_updated": "2026-08-23T12:54:51.322Z",
     "original_repository": "hashgraph-online/awesome-ai-plugins",
     "original_repository_id": 1204165322,
-    "original_repository_sha": "d03832f07dcc088ac0b3dd38388f3f25f740cdc8",
+    "original_repository_sha": "1f37b1983789ccee93ec5953488e13264ab01da8",
     "enhanced_repository": "enhansome/enhansome-ai-plugins",
     "enhanced_repository_description": null,
     "title": "Awesome ai plugins with stars"

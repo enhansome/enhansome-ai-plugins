@@ -55,7 +55,7 @@
 
 New extension workflow:
 
-1. **Validate with [`plugin-scanner`](https://github.com/hashgraph-online/hol-guard) ⭐ 466 | 🐛 40 | 🌐 Python | 📅 2026-08-24** — recommended local preflight
+1. **Validate with [`plugin-scanner`](https://github.com/hashgraph-online/hol-guard) ⭐ 466 | 🐛 41 | 🌐 Python | 📅 2026-08-24** — recommended local preflight
 2. **Optionally add the [HOL scanner GitHub Action](https://github.com/hashgraph-online/ai-plugin-scanner-action) ⭐ 4 | 🐛 1 | 📅 2026-08-24** — optional continuous scanning
 3. Choose the clients and open formats you support
 4. Build the plugin, skill, MCP server, app, or agent tool
@@ -111,13 +111,13 @@ Third-party plugins built by the community. [PRs welcome](#contributing)!
 
 <!-- pinned -->
 
-* [Claude Code Skills](https://github.com/alirezarezvani/claude-skills) ⭐ 24,890 | 🐛 10 | 🌐 Python | 📅 2026-08-21 - 223 production-ready skills, 23 agents, and 298 Python tools across 9 domains — engineering, marketing, product, compliance, and more.
-* [Generative Media Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) ⭐ 4,133 | 🐛 3 | 🌐 Shell | 📅 2026-08-24 - 13 skills for image, video, and audio generation using 100+ models - FLUX, Midjourney v7, Veo3, Kling 3.0, Suno, and HunyuanVideo via muapi.ai.
+* [Claude Code Skills](https://github.com/alirezarezvani/claude-skills) ⭐ 24,895 | 🐛 10 | 🌐 Python | 📅 2026-08-21 - 223 production-ready skills, 23 agents, and 298 Python tools across 9 domains — engineering, marketing, product, compliance, and more.
+* [Generative Media Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) ⭐ 4,135 | 🐛 3 | 🌐 Shell | 📅 2026-08-24 - 13 skills for image, video, and audio generation using 100+ models - FLUX, Midjourney v7, Veo3, Kling 3.0, Suno, and HunyuanVideo via muapi.ai.
 * [Claude Octopus](https://github.com/nyldn/claude-octopus) ⭐ 3,997 | 🐛 0 | 🌐 Shell | 📅 2026-08-24 - Multi-LLM orchestration dispatching to 8 providers (Codex, Gemini, Copilot, Qwen, Perplexity, OpenRouter, Ollama, OpenCode) with Double Diamond workflows, adversarial review, and safety gates.
 * [Brooks Lint](https://github.com/hyhmrright/brooks-lint) ⭐ 1,411 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-24 - AI code reviews grounded in six classic engineering books — decay risk diagnostics with book citations, severity labels, and four analysis modes (PR review, architecture audit, tech debt, test quality).
 * [Antigravity Workspace Template](https://github.com/study8677/antigravity-workspace-template) ⭐ 1,319 | 🐛 3 | 🌐 Python | 📅 2026-08-24 - Multi-agent codebase knowledge graph generator with context-aware planning and automatic scope management — turns codebases into coherent agent workspaces.
 * [Aegis](https://github.com/GanyuanRan/Aegis) ⭐ 1,121 | 🐛 3 | 🌐 Python | 📅 2026-08-24 - An agentic skills framework & software development methodology that works: planning, TDD, debugging, and collaboration workflows.
-* [spec-superflow](https://github.com/MageByte-Zero/spec-superflow) ⭐ 763 | 🐛 8 | 🌐 JavaScript | 📅 2026-08-16 - Spec-first workflow with nine skills, user-controlled Quick / Hotfix / Tweak / Full paths, auditable recovery commands, hardened delta-spec sync, and guarded review gates.
+* [spec-superflow](https://github.com/MageByte-Zero/spec-superflow) ⭐ 764 | 🐛 8 | 🌐 JavaScript | 📅 2026-08-16 - Spec-first workflow with nine skills, user-controlled Quick / Hotfix / Tweak / Full paths, auditable recovery commands, hardened delta-spec sync, and guarded review gates.
 * [Boss](https://github.com/echoVic/boss-skill) ⭐ 546 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-23 - BMAD pipeline plugin that orchestrates a full requirements-to-deploy workflow across nine specialist agents with an auditable runtime DAG and quality gates, for Claude Code, Codex, OpenClaw, and Antigravity.
 * [token-optimizer](https://github.com/ooples/token-optimizer-mcp) ⭐ 496 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-23 - Cut token usage 60-90% with caching, compression, and smart file tools — diff-only re-reads, paths-only search, out-of-context stashing, and a per-tool savings report for Codex and Claude Code.
 * [Codex Multi Auth](https://github.com/ndycode/codex-multi-auth) ⭐ 457 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-20 - Multi-account OAuth manager for the official Codex CLI with switching, health checks, and recovery tools.
@@ -208,7 +208,7 @@ Third-party plugins built by the community. [PRs welcome](#contributing)!
 * [Logic Probe](https://github.com/AmethystLuna/logicprobe) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-24 - Design-document & plan claim verification — checks every verifiable claim against the codebase, escalates behavioral claims to executable-model verification (7 structural checks + 7 adversarial probes), and compares before/after models for refactoring regression detection.
 * [LVTD Skills](https://github.com/LVTD-LLC/skills) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-28 - Reusable Agent Skills for Codex, Claude Code, and compatible clients, covering Django, Rust, Cookiecutter, SEO, traction, product marketing, and nonfiction publishing workflows.
 * [MailAgent](https://github.com/Alex0nder/MailAgent) ⚠️ Archived - Temporary inboxes for Codex — OTP, magic links, signup QA, simulate-first autotests (23 MCP tools).
-* [Registry Broker](https://github.com/hashgraph-online/registry-broker-codex-plugin) ⭐ 1 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-23 - Delegate tasks to specialist AI agents via the HOL Registry, plan, find, summon, and recover sessions.
+* [Registry Broker](https://github.com/hashgraph-online/registry-broker-codex-plugin) ⭐ 1 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-24 - Delegate tasks to specialist AI agents via the HOL Registry, plan, find, summon, and recover sessions.
 * [RoadmapSmith](https://github.com/PapiScholz/roadmapsmith) ⭐ 1 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-23 - Evidence-backed ROADMAP.md workflows for AI coding agents with validation, sync, and roadmap generation across any tech stack.
 * [Runtype Skills](https://github.com/runtypelabs/skills) ⭐ 1 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-18 - Supercharge your coding agent for AI product development — build, deploy, and operate agents, flows, tools, and surfaces on Runtype's managed edge runtime.
 * [Spellbook Skills](https://github.com/yyykf/spellbook-skills) ⭐ 1 | 🐛 3 | 🌐 Python | 📅 2026-08-22 - Practical Claude Code and Codex skills for worktrees, PR/MR automation, review cleanup, YApi lookup, and Java DDD guidance.
@@ -239,10 +239,10 @@ Third-party plugins built by the community. [PRs welcome](#contributing)!
 
 ### Tools & Integrations
 
-* [ego-browser](https://github.com/citrolabs/ego-lite) ⭐ 13,141 | 🐛 136 | 🌐 JavaScript | 📅 2026-08-24 - Browser automation for AI agents through ego lite, a Chromium browser where agents navigate pages, fill forms, capture screenshots, and extract data in isolated task spaces that reuse the user's existing logins.
-* [KiCad Happy](https://github.com/aklofas/kicad-happy) ⭐ 1,007 | 🐛 4 | 🌐 Python | 📅 2026-08-20 - KiCad EDA skills for schematic analysis, PCB layout review, component sourcing, BOM management, and manufacturing preparation.
+* [ego-browser](https://github.com/citrolabs/ego-lite) ⭐ 13,158 | 🐛 137 | 🌐 JavaScript | 📅 2026-08-24 - Browser automation for AI agents through ego lite, a Chromium browser where agents navigate pages, fill forms, capture screenshots, and extract data in isolated task spaces that reuse the user's existing logins.
+* [KiCad Happy](https://github.com/aklofas/kicad-happy) ⭐ 1,008 | 🐛 4 | 🌐 Python | 📅 2026-08-20 - KiCad EDA skills for schematic analysis, PCB layout review, component sourcing, BOM management, and manufacturing preparation.
 * [Digital Marketing Pro](https://github.com/indranilbanerjee/digital-marketing-pro) ⭐ 767 | 🐛 0 | 🌐 Python | 📅 2026-08-17 - Open-source AI marketing plugin for agencies — 154 skills, 25 specialist agents, 12-Part Strategy Flow, AEO/GEO, GSC AI Performance Report, Google Ads API v24, EU AI Act Article 50 / C2PA compliance.
-* [Education Agent Skills](https://github.com/GarethManning/education-agent-skills) ⭐ 667 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-10 - 131 evidence-based education skills for curriculum design, lesson planning, and assessment, with transparent evidence ratings and MCP server.
+* [Education Agent Skills](https://github.com/GarethManning/education-agent-skills) ⭐ 669 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-10 - 131 evidence-based education skills for curriculum design, lesson planning, and assessment, with transparent evidence ratings and MCP server.
 * [LinkedIn Skills](https://github.com/sergebulaev/linkedin-skills) ⭐ 587 | 🐛 0 | 🌐 Python | 📅 2026-08-22 - Codex-ready LinkedIn marketing bundle with a native .codex-plugin manifest and 10 skills: post writing with 16 tested hook formulas, AI-tell humanizer, pre-publish audit, comment and reply drafting, hook extraction, content planning, profile optimization, engager analytics, and thread monitoring; also works in Claude Code.
 * [Taisly Agent Kit](https://github.com/taisly/agent) ⭐ 237 | 🐛 2 | 🌐 JavaScript | 📅 2026-07-06 - Publish short-form videos to TikTok, Instagram Reels, YouTube Shorts, X, and Facebook from Codex with the Taisly MCP server and bundled social media posting skill.
 * [ru-text](https://github.com/talkstream/ru-text) ⭐ 214 | 🐛 0 | 🌐 Shell | 📅 2026-08-17 - Russian text quality — \~1,044 rules for typography, info-style, editorial, UX writing, and business correspondence.
@@ -337,8 +337,8 @@ xAI Grok Build plugins can bundle skills, commands, agents, hooks, MCP servers,
 and language-server configuration. A native plugin may include
 `.grok-plugin/plugin.json`; install a repository with `grok plugin install
 owner/repo --trust`. Add verified community plugins here in alphabetical order.
-See the [official xAI plugin marketplace](https://github.com/xai-org/plugin-marketplace) ⭐ 174 | 🐛 167 | 🌐 Python | 📅 2026-08-22
-and [Grok plugin guide](https://github.com/xai-org/grok-build/blob/main/crates/codegen/xai-grok-pager/docs/user-guide/09-plugins.md) ⭐ 25,976 | 🐛 0 | 🌐 Rust | 📅 2026-08-23
+See the [official xAI plugin marketplace](https://github.com/xai-org/plugin-marketplace) ⭐ 175 | 🐛 167 | 🌐 Python | 📅 2026-08-22
+and [Grok plugin guide](https://github.com/xai-org/grok-build/blob/main/crates/codegen/xai-grok-pager/docs/user-guide/09-plugins.md) ⭐ 25,983 | 🐛 0 | 🌐 Rust | 📅 2026-08-23
 before submitting.
 
 ### Kimi Plugins
@@ -347,7 +347,7 @@ Kimi Code plugins package skills, agents, and MCP servers for the Kimi runtime.
 Depending on the plugin version, a repository can expose `kimi.plugin.json` or
 `.kimi-plugin/plugin.json`; install a GitHub repository with Kimi Code's
 `/plugins install https://github.com/owner/repo` command. Add verified community
-plugins here in alphabetical order. See the [official Kimi plugin documentation](https://github.com/MoonshotAI/kimi-code/blob/main/docs/en/customization/plugins.md) ⭐ 7,043 | 🐛 1,181 | 🌐 TypeScript | 📅 2026-08-24
+plugins here in alphabetical order. See the [official Kimi plugin documentation](https://github.com/MoonshotAI/kimi-code/blob/main/docs/en/customization/plugins.md) ⭐ 7,045 | 🐛 1,183 | 🌐 TypeScript | 📅 2026-08-24
 before submitting.
 
 ### DeepSeek Harness Plugins
@@ -355,7 +355,7 @@ before submitting.
 DeepSeek Harness (DSH) plugins are Cordis modules or npm packages that expose a
 `dsh.bundle` manifest and can be installed with `dsh plugin add`. Add verified
 community plugins here in alphabetical order. See the [official DeepSeek Harness
-plugin tutorial](https://github.com/deepseek-ai/deepseek-harness/blob/master/docs/cordis-tutorial/01-first-plugin.md) ⭐ 190,782 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-21
+plugin tutorial](https://github.com/deepseek-ai/deepseek-harness/blob/master/docs/cordis-tutorial/01-first-plugin.md) ⭐ 191,071 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-21
 and the [`dsh-plugin` community topic](https://github.com/topics/dsh-plugin) before
 submitting a repository.
 
@@ -466,7 +466,7 @@ For this curated list, the README is the editorial source of truth. Generated JS
 
 ## Validate Before You Ship
 
-After scaffolding with `$plugin-creator`, use [`plugin-scanner`](https://github.com/hashgraph-online/hol-guard) ⭐ 466 | 🐛 40 | 🌐 Python | 📅 2026-08-24 as your quality gate before publishing, review, or distribution.
+After scaffolding with `$plugin-creator`, use [`plugin-scanner`](https://github.com/hashgraph-online/hol-guard) ⭐ 466 | 🐛 41 | 🌐 Python | 📅 2026-08-24 as your quality gate before publishing, review, or distribution.
 
 For skill/plugin authoring workflows, [Codex SkillForge](https://github.com/f0d010c/skillforge) ⭐ 0 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-23 provides an ESLint-style CLI and GitHub Action for scaffolding, linting, smoke-testing, and packaging Codex skills/plugins before publishing.
 
@@ -505,10 +505,10 @@ The score is best used as a quick trust signal and triage summary (not the only 
 
 ## Related Projects
 
-* [Awesome DeepSeek Harness Plugins](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) ⭐ 12,147 | 🐛 408 | 🌐 Python | 📅 2026-08-24 - Community-maintained DSH plugin list and discovery reference.
-* [Kimi Code](https://github.com/MoonshotAI/kimi-code) ⭐ 7,043 | 🐛 1,181 | 🌐 TypeScript | 📅 2026-08-24 - Official Kimi Code runtime and plugin documentation.
+* [Awesome DeepSeek Harness Plugins](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) ⭐ 12,188 | 🐛 401 | 🌐 Python | 📅 2026-08-24 - Community-maintained DSH plugin list and discovery reference.
+* [Kimi Code](https://github.com/MoonshotAI/kimi-code) ⭐ 7,045 | 🐛 1,183 | 🌐 TypeScript | 📅 2026-08-24 - Official Kimi Code runtime and plugin documentation.
 * [awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins) ⭐ 838 | 🐛 36 | 🌐 Python | 📅 2026-08-22 - Codex-focused catalog that inspired this cross-platform list.
-* [xAI Grok Plugin Marketplace](https://github.com/xai-org/plugin-marketplace) ⭐ 174 | 🐛 167 | 🌐 Python | 📅 2026-08-22 - Official Grok Build plugin marketplace and catalog format.
+* [xAI Grok Plugin Marketplace](https://github.com/xai-org/plugin-marketplace) ⭐ 175 | 🐛 167 | 🌐 Python | 📅 2026-08-22 - Official Grok Build plugin marketplace and catalog format.
 * [HOL Plugin Registry](https://hol.org/registry/plugins) - Browse plugins with scanner-backed security analysis and trust scores.
 
 ## Claim Your Plugin
@@ -528,7 +528,7 @@ That's it. The verification confirms you are the repository owner or an organiza
 
 ## Plugin Trust Scores
 
-Every plugin in this list is automatically ingested by the [HOL Plugin Registry](https://hol.org/registry/plugins), which runs each through the [`plugin-scanner`](https://github.com/hashgraph-online/hol-guard) ⭐ 466 | 🐛 40 | 🌐 Python | 📅 2026-08-24 to produce a trust score and security analysis.
+Every plugin in this list is automatically ingested by the [HOL Plugin Registry](https://hol.org/registry/plugins), which runs each through the [`plugin-scanner`](https://github.com/hashgraph-online/hol-guard) ⭐ 466 | 🐛 41 | 🌐 Python | 📅 2026-08-24 to produce a trust score and security analysis.
 
 A snapshot of scored installable plugins (plus modeled Guard runtime fixtures and public advisories) is published on Hugging Face as [HOL Plugin Security](https://huggingface.co/datasets/HashgraphOnline/hol-plugin-security). Scan ≠ safety guarantee. Catalog plugin count is not the Registry Broker agent catalog. HOL publishes it; not independent validation.
 

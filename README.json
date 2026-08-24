@@ -5,14 +5,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Validate with — recommended local preflight",
-          "description": null,
+          "title": "Validate with",
+          "description": "recommended local preflight",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1194748811,
             "language": "Python",
-            "last_commit": "2026-08-24T10:33:46Z",
+            "last_commit": "2026-08-24T14:39:02Z",
             "owner": "hashgraph-online",
             "repo": "hol-guard",
             "stars": 466
@@ -20,8 +20,8 @@
         },
         {
           "node_type": "item",
-          "title": "Optionally add the HOL scanner GitHub Action — optional continuous scanning",
-          "description": null,
+          "title": "Optionally add the HOL scanner GitHub Action",
+          "description": "optional continuous scanning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -53,7 +53,7 @@
                 "last_commit": "2026-08-21T09:39:58Z",
                 "owner": "alirezarezvani",
                 "repo": "claude-skills",
-                "stars": 24890
+                "stars": 24895
               }
             },
             {
@@ -68,7 +68,7 @@
                 "last_commit": "2026-08-24T10:52:36Z",
                 "owner": "SamurAIGPT",
                 "repo": "Generative-Media-Skills",
-                "stars": 4133
+                "stars": 4135
               }
             },
             {
@@ -143,7 +143,7 @@
                 "last_commit": "2026-08-16T13:01:03Z",
                 "owner": "MageByte-Zero",
                 "repo": "spec-superflow",
-                "stars": 763
+                "stars": 764
               }
             },
             {
@@ -1205,7 +1205,7 @@
                 "archived": false,
                 "id": 1324431490,
                 "language": "Python",
-                "last_commit": "2026-08-24T12:30:56Z",
+                "last_commit": "2026-08-24T14:39:46Z",
                 "owner": "GreenLv",
                 "repo": "codex-context-guard",
                 "stars": 3
@@ -1415,7 +1415,7 @@
                 "archived": false,
                 "id": 1288974700,
                 "language": "Python",
-                "last_commit": "2026-08-24T10:54:40Z",
+                "last_commit": "2026-08-24T13:39:38Z",
                 "owner": "sh-ai-x",
                 "repo": "dev-harness-kit",
                 "stars": 1
@@ -1505,7 +1505,7 @@
                 "archived": false,
                 "id": 1193250580,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T21:46:24Z",
+                "last_commit": "2026-08-24T14:18:11Z",
                 "owner": "hashgraph-online",
                 "repo": "registry-broker-codex-plugin",
                 "stars": 1
@@ -1770,7 +1770,7 @@
                 "last_commit": "2026-08-24T06:21:34Z",
                 "owner": "citrolabs",
                 "repo": "ego-lite",
-                "stars": 13141
+                "stars": 13158
               }
             },
             {
@@ -1785,7 +1785,7 @@
                 "last_commit": "2026-08-20T23:05:13Z",
                 "owner": "aklofas",
                 "repo": "kicad-happy",
-                "stars": 1007
+                "stars": 1008
               }
             },
             {
@@ -1815,7 +1815,7 @@
                 "last_commit": "2026-08-10T12:50:35Z",
                 "owner": "GarethManning",
                 "repo": "education-agent-skills",
-                "stars": 667
+                "stars": 669
               }
             },
             {
@@ -2457,7 +2457,7 @@
                 "archived": false,
                 "id": 1222678439,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T13:00:42Z",
+                "last_commit": "2026-08-24T14:40:20Z",
                 "owner": "happy520ai",
                 "repo": "unified-ai-system",
                 "stars": 6
@@ -3098,10 +3098,10 @@
             "archived": false,
             "id": 1333175049,
             "language": "Python",
-            "last_commit": "2026-08-24T12:47:56Z",
+            "last_commit": "2026-08-24T14:35:13Z",
             "owner": "awesome-dsh-plugin",
             "repo": "awesome-dsh-plugin",
-            "stars": 12147
+            "stars": 12188
           }
         },
         {
@@ -3113,10 +3113,10 @@
             "archived": false,
             "id": 1246459259,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T12:56:23Z",
+            "last_commit": "2026-08-24T14:31:11Z",
             "owner": "MoonshotAI",
             "repo": "kimi-code",
-            "stars": 7043
+            "stars": 7045
           }
         },
         {
@@ -3146,7 +3146,7 @@
             "last_commit": "2026-08-22T21:21:34Z",
             "owner": "xai-org",
             "repo": "plugin-marketplace",
-            "stars": 174
+            "stars": 175
           }
         }
       ],
@@ -3154,7 +3154,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:05:23.556Z",
+    "last_updated": "2026-08-24T14:40:55.231Z",
     "original_repository": "hashgraph-online/awesome-ai-plugins",
     "original_repository_id": 1204165322,
     "original_repository_sha": "2820f9200e56528e3816eed975b2c64709088f05",

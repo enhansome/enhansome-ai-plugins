@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1194748811,
             "language": "Python",
-            "last_commit": "2026-08-23T11:05:37Z",
+            "last_commit": "2026-08-24T10:33:46Z",
             "owner": "hashgraph-online",
             "repo": "hol-guard",
-            "stars": 463
+            "stars": 466
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 1205159823,
             "language": null,
-            "last_commit": "2026-08-22T16:56:37Z",
+            "last_commit": "2026-08-24T09:47:44Z",
             "owner": "hashgraph-online",
             "repo": "ai-plugin-scanner-action",
             "stars": 4
@@ -53,7 +53,7 @@
                 "last_commit": "2026-08-21T09:39:58Z",
                 "owner": "alirezarezvani",
                 "repo": "claude-skills",
-                "stars": 24835
+                "stars": 24890
               }
             },
             {
@@ -65,10 +65,10 @@
                 "archived": false,
                 "id": 645381450,
                 "language": "Shell",
-                "last_commit": "2026-08-20T12:57:12Z",
+                "last_commit": "2026-08-24T10:52:36Z",
                 "owner": "SamurAIGPT",
                 "repo": "Generative-Media-Skills",
-                "stars": 4126
+                "stars": 4133
               }
             },
             {
@@ -80,10 +80,10 @@
                 "archived": false,
                 "id": 1134819911,
                 "language": "Shell",
-                "last_commit": "2026-08-22T04:40:30Z",
+                "last_commit": "2026-08-24T02:34:19Z",
                 "owner": "nyldn",
                 "repo": "claude-octopus",
-                "stars": 3995
+                "stars": 3997
               }
             },
             {
@@ -95,10 +95,10 @@
                 "archived": false,
                 "id": 1192608669,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T14:20:43Z",
+                "last_commit": "2026-08-24T04:07:06Z",
                 "owner": "hyhmrright",
                 "repo": "brooks-lint",
-                "stars": 1406
+                "stars": 1411
               }
             },
             {
@@ -110,10 +110,10 @@
                 "archived": false,
                 "id": 1099636778,
                 "language": "Python",
-                "last_commit": "2026-08-21T19:04:12Z",
+                "last_commit": "2026-08-24T11:24:59Z",
                 "owner": "study8677",
                 "repo": "repobrain",
-                "stars": 1317
+                "stars": 1319
               }
             },
             {
@@ -125,10 +125,10 @@
                 "archived": false,
                 "id": 1225840521,
                 "language": "Python",
-                "last_commit": "2026-08-23T06:12:39Z",
+                "last_commit": "2026-08-24T00:31:04Z",
                 "owner": "GanyuanRan",
                 "repo": "Aegis",
-                "stars": 1116
+                "stars": 1121
               }
             },
             {
@@ -143,7 +143,7 @@
                 "last_commit": "2026-08-16T13:01:03Z",
                 "owner": "MageByte-Zero",
                 "repo": "spec-superflow",
-                "stars": 759
+                "stars": 763
               }
             },
             {
@@ -155,7 +155,7 @@
                 "archived": false,
                 "id": 1131516434,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T16:04:27Z",
+                "last_commit": "2026-08-23T16:04:25Z",
                 "owner": "echoVic",
                 "repo": "boss-skill",
                 "stars": 546
@@ -173,7 +173,7 @@
                 "last_commit": "2026-08-23T00:11:14Z",
                 "owner": "ooples",
                 "repo": "token-optimizer-mcp",
-                "stars": 493
+                "stars": 496
               }
             },
             {
@@ -230,10 +230,10 @@
                 "archived": false,
                 "id": 1293528352,
                 "language": "Python",
-                "last_commit": "2026-08-18T18:14:30Z",
+                "last_commit": "2026-08-24T10:22:35Z",
                 "owner": "ohad6k",
                 "repo": "emulo",
-                "stars": 273
+                "stars": 272
               }
             },
             {
@@ -308,7 +308,7 @@
                 "last_commit": "2026-08-17T13:17:46Z",
                 "owner": "archcore-ai",
                 "repo": "plugin",
-                "stars": 53
+                "stars": 52
               }
             },
             {
@@ -335,7 +335,7 @@
                 "archived": false,
                 "id": 1199817646,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T12:19:54Z",
+                "last_commit": "2026-08-23T21:55:48Z",
                 "owner": "Kanevry",
                 "repo": "session-orchestrator",
                 "stars": 48
@@ -403,6 +403,21 @@
             },
             {
               "node_type": "item",
+              "title": "Open Dynamic Workflows",
+              "description": "Local-first MIT dynamic multi-agent workflows for Codex, OpenCode, Antigravity, Cursor, and VS Code with a daemon, MCP bridge, Codex skills, OpenCode plugin, and bring-your-own-model support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1260320502,
+                "language": "JavaScript",
+                "last_commit": "2026-07-09T16:35:47Z",
+                "owner": "Suraj1235",
+                "repo": "open-dynamic-workflows",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Velith",
               "description": "AI-native publishing system with a 6-phase pipeline from ideation to EPUB/PDF across 8 genres.",
               "children": [],
@@ -418,16 +433,16 @@
             },
             {
               "node_type": "item",
-              "title": "Open Dynamic Workflows",
-              "description": "Local-first MIT dynamic multi-agent workflows for Codex, OpenCode, Antigravity, Cursor, and VS Code with a daemon, MCP bridge, Codex skills, OpenCode plugin, and bring-your-own-model support.",
+              "title": "Hera Agent Unity",
+              "description": "Controls and verifies a live Unity Editor through a low-token CLI, with scene, asset, Inspector, Play Mode, test, screenshot, and runtime C# workflows for Codex and other coding agents.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "id": 1260320502,
-                "language": "JavaScript",
-                "last_commit": "2026-07-09T16:35:47Z",
-                "owner": "Suraj1235",
-                "repo": "open-dynamic-workflows",
+                "id": 1250681945,
+                "language": "C#",
+                "last_commit": "2026-08-19T03:11:48Z",
+                "owner": "NotNull92",
+                "repo": "hera-agent-unity",
                 "stars": 28
               }
             },
@@ -440,24 +455,9 @@
                 "archived": false,
                 "id": 1264276725,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T22:26:53Z",
+                "last_commit": "2026-08-23T17:42:42Z",
                 "owner": "PyModel",
                 "repo": "designer-skill",
-                "stars": 27
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Hera Agent Unity",
-              "description": "Controls and verifies a live Unity Editor through a low-token CLI, with scene, asset, Inspector, Play Mode, test, screenshot, and runtime C# workflows for Codex and other coding agents.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1250681945,
-                "language": "C#",
-                "last_commit": "2026-08-19T03:11:48Z",
-                "owner": "NotNull92",
-                "repo": "hera-agent-unity",
                 "stars": 27
               }
             },
@@ -530,9 +530,24 @@
                 "archived": false,
                 "id": 1223833961,
                 "language": "Python",
-                "last_commit": "2026-08-23T05:23:07Z",
+                "last_commit": "2026-08-24T11:18:46Z",
                 "owner": "vishal2612200",
                 "repo": "agentpack",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Quality Engineering Skills",
+              "description": "22 structured quality engineering skills for automotive and manufacturing: ISO 9001, IATF 16949, AIAG-VDA FMEA, VDA 6.3, PPAP, APQP, SPC, MSA.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1259275090,
+                "language": "JavaScript",
+                "last_commit": "2026-08-21T14:05:21Z",
+                "owner": "RBraga01",
+                "repo": "Quality-Engineering-Skills",
                 "stars": 24
               }
             },
@@ -553,21 +568,6 @@
             },
             {
               "node_type": "item",
-              "title": "Quality Engineering Skills",
-              "description": "22 structured quality engineering skills for automotive and manufacturing: ISO 9001, IATF 16949, AIAG-VDA FMEA, VDA 6.3, PPAP, APQP, SPC, MSA.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1259275090,
-                "language": "JavaScript",
-                "last_commit": "2026-08-21T14:05:21Z",
-                "owner": "RBraga01",
-                "repo": "Quality-Engineering-Skills",
-                "stars": 23
-              }
-            },
-            {
-              "node_type": "item",
               "title": "RAG Reviewer",
               "description": "Agentic PR review: hybrid RAG + code graph via MCP, review skills for Codex.",
               "children": [],
@@ -578,7 +578,7 @@
                 "last_commit": "2026-08-23T01:03:02Z",
                 "owner": "mimfort",
                 "repo": "rag_for_git",
-                "stars": 20
+                "stars": 21
               }
             },
             {
@@ -643,6 +643,21 @@
             },
             {
               "node_type": "item",
+              "title": "BGS Modding Superpowers",
+              "description": "Agentic Bethesda Game Studio modpack curation toolkit with MCP-driven xEdit conflict audit, MO2 control plane, BA2/BSA and Papyrus tooling, and skills for setup, dev-log, and release-changelog workflows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1211851755,
+                "language": "Python",
+                "last_commit": "2026-08-14T02:04:05Z",
+                "owner": "BB-84C",
+                "repo": "bgs-modding-superpowers",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Codex Reviewer",
               "description": "Second-pass review of Claude-driven plans and implementations.",
               "children": [],
@@ -668,21 +683,6 @@
                 "last_commit": "2026-08-09T22:13:18Z",
                 "owner": "RBraga01",
                 "repo": "a-team",
-                "stars": 13
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "BGS Modding Superpowers",
-              "description": "Agentic Bethesda Game Studio modpack curation toolkit with MCP-driven xEdit conflict audit, MO2 control plane, BA2/BSA and Papyrus tooling, and skills for setup, dev-log, and release-changelog workflows.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1211851755,
-                "language": "Python",
-                "last_commit": "2026-08-14T02:04:05Z",
-                "owner": "BB-84C",
-                "repo": "bgs-modding-superpowers",
                 "stars": 13
               }
             },
@@ -728,6 +728,21 @@
                 "last_commit": "2026-04-23T09:41:30Z",
                 "owner": "dragon1086",
                 "repo": "claude-skills",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "trigger-tree",
+              "description": "Local documentation telemetry for Claude Code and Codex: see which docs your agent actually reads, gate discoverability in CI, and measure instruction adherence.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1303972604,
+                "language": "Python",
+                "last_commit": "2026-08-24T10:15:57Z",
+                "owner": "Hedde",
+                "repo": "trigger_tree",
                 "stars": 12
               }
             },
@@ -788,21 +803,6 @@
                 "last_commit": "2026-07-29T02:59:35Z",
                 "owner": "NotNull92",
                 "repo": "hera-agent-godot",
-                "stars": 11
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "trigger-tree",
-              "description": "Local documentation telemetry for Claude Code and Codex: see which docs your agent actually reads, gate discoverability in CI, and measure instruction adherence.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1303972604,
-                "language": "Python",
-                "last_commit": "2026-08-17T12:41:53Z",
-                "owner": "Hedde",
-                "repo": "trigger_tree",
                 "stars": 11
               }
             },
@@ -1048,6 +1048,21 @@
             },
             {
               "node_type": "item",
+              "title": "Dev Skills",
+              "description": "Team workflow skills for specs, plans, TDD, debugging, verification, review, branch finishing, and design context.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1224137046,
+                "language": "JavaScript",
+                "last_commit": "2026-08-12T03:58:17Z",
+                "owner": "Jason-chen-coder",
+                "repo": "dev-skills",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
               "title": "LLM Transpile",
               "description": "Auto-compress .md, .html, and .txt files via PostToolUse hook, cutting context usage by up to 40% with zero workflow change.",
               "children": [],
@@ -1073,6 +1088,21 @@
                 "last_commit": "2026-08-20T14:15:06Z",
                 "owner": "mbanderas",
                 "repo": "maestro",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Simple Man",
+              "description": "High-compression communication mode for Codex agents that removes filler while preserving search, validation, and implementation effort.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1243835587,
+                "language": "Python",
+                "last_commit": "2026-08-22T14:07:44Z",
+                "owner": "Maksim-Burtsev",
+                "repo": "simple-man",
                 "stars": 5
               }
             },
@@ -1123,36 +1153,6 @@
             },
             {
               "node_type": "item",
-              "title": "Dev Skills",
-              "description": "Team workflow skills for specs, plans, TDD, debugging, verification, review, branch finishing, and design context.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1224137046,
-                "language": "JavaScript",
-                "last_commit": "2026-08-12T03:58:17Z",
-                "owner": "Jason-chen-coder",
-                "repo": "dev-skills",
-                "stars": 4
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Simple Man",
-              "description": "High-compression communication mode for Codex agents that removes filler while preserving search, validation, and implementation effort.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1243835587,
-                "language": "Python",
-                "last_commit": "2026-08-22T14:07:44Z",
-                "owner": "Maksim-Burtsev",
-                "repo": "simple-man",
-                "stars": 4
-              }
-            },
-            {
-              "node_type": "item",
               "title": "Superpipelines",
               "description": "Design and run write/review-isolated multi-agent AI pipelines across Codex, Claude Code, OpenCode, Cursor, Windsurf, and Cline.",
               "children": [],
@@ -1190,7 +1190,7 @@
                 "archived": false,
                 "id": 1310771497,
                 "language": "Python",
-                "last_commit": "2026-08-21T21:34:52Z",
+                "last_commit": "2026-08-24T07:13:59Z",
                 "owner": "Phelan164",
                 "repo": "codex-howto",
                 "stars": 3
@@ -1205,7 +1205,7 @@
                 "archived": false,
                 "id": 1324431490,
                 "language": "Python",
-                "last_commit": "2026-08-22T08:49:38Z",
+                "last_commit": "2026-08-24T12:30:56Z",
                 "owner": "GreenLv",
                 "repo": "codex-context-guard",
                 "stars": 3
@@ -1220,7 +1220,7 @@
                 "archived": false,
                 "id": 1240712063,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T13:54:36Z",
+                "last_commit": "2026-08-24T10:22:28Z",
                 "owner": "hashgraph-online",
                 "repo": "hol-guard-plugin",
                 "stars": 3
@@ -1250,7 +1250,7 @@
                 "archived": false,
                 "id": 1253173685,
                 "language": "Shell",
-                "last_commit": "2026-07-15T15:04:50Z",
+                "last_commit": "2026-08-23T19:04:40Z",
                 "owner": "gustavo-meilus",
                 "repo": "aiboarding",
                 "stars": 2
@@ -1280,7 +1280,7 @@
                 "archived": false,
                 "id": 1296874960,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T07:03:48Z",
+                "last_commit": "2026-08-23T17:24:52Z",
                 "owner": "joelfarthing",
                 "repo": "codex-process-jobs",
                 "stars": 2
@@ -1325,7 +1325,7 @@
                 "archived": false,
                 "id": 1263163606,
                 "language": "JavaScript",
-                "last_commit": "2026-08-17T10:17:17Z",
+                "last_commit": "2026-08-24T10:15:53Z",
                 "owner": "vinicq",
                 "repo": "falsegreen-skill",
                 "stars": 2
@@ -1355,7 +1355,7 @@
                 "archived": false,
                 "id": 1055879805,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T10:50:47Z",
+                "last_commit": "2026-08-24T11:33:28Z",
                 "owner": "s977043",
                 "repo": "river-review",
                 "stars": 2
@@ -1408,21 +1408,6 @@
             },
             {
               "node_type": "item",
-              "title": "Codex Full-Stack Workflow",
-              "description": "Turns rough product requests into staged, reviewable full-stack delivery with persistent requirements, change control, visual evidence, and completion gates.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1291696816,
-                "language": "TypeScript",
-                "last_commit": "2026-08-19T02:45:49Z",
-                "owner": "kevin592",
-                "repo": "codex-full-stack-workflow",
-                "stars": 1
-              }
-            },
-            {
-              "node_type": "item",
               "title": "dev-harness-kit",
               "description": "Enforced development workflow skills for Codex and Claude Code covering planning, TDD, debugging, review, security, CI, and release.",
               "children": [],
@@ -1430,7 +1415,7 @@
                 "archived": false,
                 "id": 1288974700,
                 "language": "Python",
-                "last_commit": "2026-08-23T12:34:02Z",
+                "last_commit": "2026-08-24T10:54:40Z",
                 "owner": "sh-ai-x",
                 "repo": "dev-harness-kit",
                 "stars": 1
@@ -1445,7 +1430,7 @@
                 "archived": false,
                 "id": 1276714299,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T05:57:23Z",
+                "last_commit": "2026-08-24T03:43:17Z",
                 "owner": "AmethystLuna",
                 "repo": "embedded-workbench",
                 "stars": 1
@@ -1475,7 +1460,7 @@
                 "archived": false,
                 "id": 1331586818,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T07:44:59Z",
+                "last_commit": "2026-08-24T03:43:36Z",
                 "owner": "AmethystLuna",
                 "repo": "logicprobe",
                 "stars": 1
@@ -1520,7 +1505,7 @@
                 "archived": false,
                 "id": 1193250580,
                 "language": "TypeScript",
-                "last_commit": "2026-07-20T19:25:59Z",
+                "last_commit": "2026-08-23T21:46:24Z",
                 "owner": "hashgraph-online",
                 "repo": "registry-broker-codex-plugin",
                 "stars": 1
@@ -1535,7 +1520,7 @@
                 "archived": false,
                 "id": 1220425098,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T16:52:35Z",
+                "last_commit": "2026-08-23T16:52:37Z",
                 "owner": "PapiScholz",
                 "repo": "roadmapsmith",
                 "stars": 1
@@ -1745,7 +1730,7 @@
                 "archived": false,
                 "id": 1293053610,
                 "language": "Shell",
-                "last_commit": "2026-08-19T09:24:10Z",
+                "last_commit": "2026-08-24T04:52:13Z",
                 "owner": "TerminallyLazy",
                 "repo": "tree-ring-memory-codex-plugin",
                 "stars": 0
@@ -1782,10 +1767,10 @@
                 "archived": false,
                 "id": 1212503250,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T11:36:35Z",
+                "last_commit": "2026-08-24T06:21:34Z",
                 "owner": "citrolabs",
                 "repo": "ego-lite",
-                "stars": 12846
+                "stars": 13141
               }
             },
             {
@@ -1800,7 +1785,7 @@
                 "last_commit": "2026-08-20T23:05:13Z",
                 "owner": "aklofas",
                 "repo": "kicad-happy",
-                "stars": 1001
+                "stars": 1007
               }
             },
             {
@@ -1815,7 +1800,7 @@
                 "last_commit": "2026-08-17T10:50:14Z",
                 "owner": "indranilbanerjee",
                 "repo": "digital-marketing-pro",
-                "stars": 765
+                "stars": 767
               }
             },
             {
@@ -1830,7 +1815,7 @@
                 "last_commit": "2026-08-10T12:50:35Z",
                 "owner": "GarethManning",
                 "repo": "education-agent-skills",
-                "stars": 662
+                "stars": 667
               }
             },
             {
@@ -1845,7 +1830,7 @@
                 "last_commit": "2026-08-22T20:46:14Z",
                 "owner": "sergebulaev",
                 "repo": "linkedin-skills",
-                "stars": 583
+                "stars": 587
               }
             },
             {
@@ -1860,7 +1845,7 @@
                 "last_commit": "2026-07-06T08:18:09Z",
                 "owner": "taisly",
                 "repo": "agent",
-                "stars": 238
+                "stars": 237
               }
             },
             {
@@ -1875,22 +1860,7 @@
                 "last_commit": "2026-08-17T07:01:48Z",
                 "owner": "talkstream",
                 "repo": "ru-text",
-                "stars": 213
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Codex Usage Tracker",
-              "description": "Track aggregate Codex token usage from local session logs with MCP tools for summaries, session detail, CSV export, and dashboard generation.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1241754264,
-                "language": "Python",
-                "last_commit": "2026-08-20T19:29:45Z",
-                "owner": "douglasmonsky",
-                "repo": "codex-usage-tracker",
-                "stars": 195
+                "stars": 214
               }
             },
             {
@@ -1910,6 +1880,21 @@
             },
             {
               "node_type": "item",
+              "title": "Codex Usage Tracker",
+              "description": "Track aggregate Codex token usage from local session logs with MCP tools for summaries, session detail, CSV export, and dashboard generation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1241754264,
+                "language": "Python",
+                "last_commit": "2026-08-20T19:29:45Z",
+                "owner": "douglasmonsky",
+                "repo": "codex-usage-tracker",
+                "stars": 193
+              }
+            },
+            {
+              "node_type": "item",
               "title": "X Twitter Scraper",
               "description": "X/Twitter data, monitored workflows, HMAC webhooks, and MCP access through the Xquik REST API with confirmation-gated write guidance.",
               "children": [],
@@ -1917,10 +1902,10 @@
                 "archived": false,
                 "id": 1168120544,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T02:40:19Z",
+                "last_commit": "2026-08-24T02:12:22Z",
                 "owner": "Xquik-dev",
                 "repo": "x-twitter-scraper",
-                "stars": 186
+                "stars": 187
               }
             },
             {
@@ -1950,7 +1935,7 @@
                 "last_commit": "2026-08-21T03:33:44Z",
                 "owner": "MohamedAbdallah-14",
                 "repo": "unslop",
-                "stars": 106
+                "stars": 108
               }
             },
             {
@@ -1965,7 +1950,7 @@
                 "last_commit": "2026-08-21T19:31:37Z",
                 "owner": "avivsinai",
                 "repo": "langfuse-mcp",
-                "stars": 104
+                "stars": 105
               }
             },
             {
@@ -1980,7 +1965,7 @@
                 "last_commit": "2026-08-21T02:35:47Z",
                 "owner": "CALLE-AI",
                 "repo": "call-e-integrations",
-                "stars": 83
+                "stars": 85
               }
             },
             {
@@ -1992,7 +1977,7 @@
                 "archived": false,
                 "id": 1122637774,
                 "language": "Go",
-                "last_commit": "2026-08-22T11:15:34Z",
+                "last_commit": "2026-08-23T19:17:57Z",
                 "owner": "avivsinai",
                 "repo": "agent-message-queue",
                 "stars": 82
@@ -2007,7 +1992,7 @@
                 "archived": false,
                 "id": 1073730777,
                 "language": "Go",
-                "last_commit": "2026-08-19T21:03:00Z",
+                "last_commit": "2026-08-24T04:11:50Z",
                 "owner": "avivsinai",
                 "repo": "jenkins-cli",
                 "stars": 82
@@ -2025,7 +2010,7 @@
                 "last_commit": "2026-08-02T14:20:25Z",
                 "owner": "talivia-group",
                 "repo": "agent",
-                "stars": 58
+                "stars": 59
               }
             },
             {
@@ -2247,7 +2232,7 @@
                 "archived": false,
                 "id": 1171060534,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T20:23:52Z",
+                "last_commit": "2026-08-24T05:02:37Z",
                 "owner": "getcargohq",
                 "repo": "cargo-skills",
                 "stars": 15
@@ -2367,10 +2352,25 @@
                 "archived": false,
                 "id": 1290634456,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T03:55:09Z",
+                "last_commit": "2026-08-24T03:55:59Z",
                 "owner": "glenncalleja",
                 "repo": "wakewire",
                 "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SysKnife",
+              "description": "Linux sysadmin co-pilot as an MCP server for Codex: plain-language requests become typed, risk-classified actions that a privileged daemon runs only after out-of-band terminal approval, with an Ed25519-signed audit chain and automatic rollback.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1270714989,
+                "language": "Rust",
+                "last_commit": "2026-08-24T11:32:16Z",
+                "owner": "lacs-project",
+                "repo": "sysknife",
+                "stars": 8
               }
             },
             {
@@ -2405,21 +2405,6 @@
             },
             {
               "node_type": "item",
-              "title": "SysKnife",
-              "description": "Linux sysadmin co-pilot as an MCP server for Codex: plain-language requests become typed, risk-classified actions that a privileged daemon runs only after out-of-band terminal approval, with an Ed25519-signed audit chain and automatic rollback.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1270714989,
-                "language": "Rust",
-                "last_commit": "2026-08-20T10:41:40Z",
-                "owner": "lacs-project",
-                "repo": "sysknife",
-                "stars": 7
-              }
-            },
-            {
-              "node_type": "item",
               "title": "Apple Productivity",
               "description": "Local Apple Calendar and Reminders tooling for macOS with Codex plugin adapters.",
               "children": [],
@@ -2442,7 +2427,7 @@
                 "archived": false,
                 "id": 1217026496,
                 "language": "JavaScript",
-                "last_commit": "2026-08-17T06:09:01Z",
+                "last_commit": "2026-08-24T07:34:06Z",
                 "owner": "dodopayments",
                 "repo": "dodo-agent-plugin",
                 "stars": 6
@@ -2472,7 +2457,7 @@
                 "archived": false,
                 "id": 1222678439,
                 "language": "JavaScript",
-                "last_commit": "2026-08-19T05:58:16Z",
+                "last_commit": "2026-08-24T13:00:42Z",
                 "owner": "happy520ai",
                 "repo": "unified-ai-system",
                 "stars": 6
@@ -2525,21 +2510,6 @@
             },
             {
               "node_type": "item",
-              "title": "Read Image",
-              "description": "Read local images, videos, web pages, and Windows screenshots through Doubao, GLM, or Qwen-compatible vision APIs.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1319418511,
-                "language": "Python",
-                "last_commit": "2026-08-17T03:37:17Z",
-                "owner": "good-boy4069",
-                "repo": "Deepseek-omnimodal",
-                "stars": 5
-              }
-            },
-            {
-              "node_type": "item",
               "title": "PapersFlow",
               "description": "Paper discovery, citation verification, graph exploration, and DeepScan analysis.",
               "children": [],
@@ -2550,6 +2520,21 @@
                 "last_commit": "2026-07-04T12:52:33Z",
                 "owner": "papersflow-ai",
                 "repo": "papersflow-codex-plugin",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Read Image",
+              "description": "Read local images, videos, web pages, and Windows screenshots through Doubao, GLM, or Qwen-compatible vision APIs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1319418511,
+                "language": "Python",
+                "last_commit": "2026-08-17T03:37:17Z",
+                "owner": "good-boy4069",
+                "repo": "Deepseek-omnimodal",
                 "stars": 4
               }
             },
@@ -3012,7 +2997,7 @@
                 "archived": false,
                 "id": 1290276430,
                 "language": null,
-                "last_commit": "2026-08-16T21:42:39Z",
+                "last_commit": "2026-08-24T05:18:53Z",
                 "owner": "plori-ai",
                 "repo": "codex-plugin",
                 "stars": 0
@@ -3027,7 +3012,7 @@
                 "archived": false,
                 "id": 1304769310,
                 "language": "Python",
-                "last_commit": "2026-08-02T07:19:00Z",
+                "last_commit": "2026-08-24T04:56:36Z",
                 "owner": "Erfouni",
                 "repo": "solidworks-GPT-plugin",
                 "stars": 0
@@ -3113,10 +3098,10 @@
             "archived": false,
             "id": 1333175049,
             "language": "Python",
-            "last_commit": "2026-08-23T03:42:34Z",
+            "last_commit": "2026-08-24T12:47:56Z",
             "owner": "awesome-dsh-plugin",
             "repo": "awesome-dsh-plugin",
-            "stars": 11754
+            "stars": 12147
           }
         },
         {
@@ -3128,10 +3113,10 @@
             "archived": false,
             "id": 1246459259,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T12:42:53Z",
+            "last_commit": "2026-08-24T12:56:23Z",
             "owner": "MoonshotAI",
             "repo": "kimi-code",
-            "stars": 7016
+            "stars": 7043
           }
         },
         {
@@ -3146,7 +3131,7 @@
             "last_commit": "2026-08-22T16:56:45Z",
             "owner": "hashgraph-online",
             "repo": "awesome-codex-plugins",
-            "stars": 833
+            "stars": 838
           }
         },
         {
@@ -3161,7 +3146,7 @@
             "last_commit": "2026-08-22T21:21:34Z",
             "owner": "xai-org",
             "repo": "plugin-marketplace",
-            "stars": 169
+            "stars": 174
           }
         }
       ],
@@ -3169,10 +3154,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T12:54:51.322Z",
+    "last_updated": "2026-08-24T13:05:23.556Z",
     "original_repository": "hashgraph-online/awesome-ai-plugins",
     "original_repository_id": 1204165322,
-    "original_repository_sha": "1f37b1983789ccee93ec5953488e13264ab01da8",
+    "original_repository_sha": "2820f9200e56528e3816eed975b2c64709088f05",
     "enhanced_repository": "enhansome/enhansome-ai-plugins",
     "enhanced_repository_description": null,
     "title": "Awesome ai plugins with stars"

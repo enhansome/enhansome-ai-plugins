@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1194748811,
             "language": "Python",
-            "last_commit": "2026-08-24T14:39:02Z",
+            "last_commit": "2026-08-25T04:53:26Z",
             "owner": "hashgraph-online",
             "repo": "hol-guard",
-            "stars": 466
+            "stars": 472
           }
         },
         {
@@ -50,10 +50,10 @@
                 "archived": false,
                 "id": 1079084637,
                 "language": "Python",
-                "last_commit": "2026-08-21T09:39:58Z",
+                "last_commit": "2026-08-25T06:14:46Z",
                 "owner": "alirezarezvani",
                 "repo": "claude-skills",
-                "stars": 24895
+                "stars": 24926
               }
             },
             {
@@ -68,7 +68,7 @@
                 "last_commit": "2026-08-24T10:52:36Z",
                 "owner": "SamurAIGPT",
                 "repo": "Generative-Media-Skills",
-                "stars": 4135
+                "stars": 4137
               }
             },
             {
@@ -83,7 +83,22 @@
                 "last_commit": "2026-08-24T02:34:19Z",
                 "owner": "nyldn",
                 "repo": "claude-octopus",
-                "stars": 3997
+                "stars": 4000
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AI Video Transcriber",
+              "description": "Transcribe and summarize videos, podcasts, and local media via a Codex plugin, Claude Code skill, and MCP server.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1046070227,
+                "language": "Python",
+                "last_commit": "2026-08-23T16:15:21Z",
+                "owner": "wendy7756",
+                "repo": "AI-Video-Transcriber",
+                "stars": 3203
               }
             },
             {
@@ -98,7 +113,7 @@
                 "last_commit": "2026-08-24T04:07:06Z",
                 "owner": "hyhmrright",
                 "repo": "brooks-lint",
-                "stars": 1411
+                "stars": 1414
               }
             },
             {
@@ -128,7 +143,7 @@
                 "last_commit": "2026-08-24T00:31:04Z",
                 "owner": "GanyuanRan",
                 "repo": "Aegis",
-                "stars": 1121
+                "stars": 1129
               }
             },
             {
@@ -158,7 +173,7 @@
                 "last_commit": "2026-08-23T16:04:25Z",
                 "owner": "echoVic",
                 "repo": "boss-skill",
-                "stars": 546
+                "stars": 547
               }
             },
             {
@@ -188,7 +203,7 @@
                 "last_commit": "2026-08-20T23:45:30Z",
                 "owner": "ndycode",
                 "repo": "codex-multi-auth",
-                "stars": 457
+                "stars": 458
               }
             },
             {
@@ -200,10 +215,10 @@
                 "archived": false,
                 "id": 1090518613,
                 "language": "Go",
-                "last_commit": "2026-08-23T06:22:16Z",
+                "last_commit": "2026-08-25T03:39:54Z",
                 "owner": "boshu2",
                 "repo": "agentops",
-                "stars": 428
+                "stars": 429
               }
             },
             {
@@ -230,10 +245,25 @@
                 "archived": false,
                 "id": 1293528352,
                 "language": "Python",
-                "last_commit": "2026-08-24T10:22:35Z",
+                "last_commit": "2026-08-24T18:30:47Z",
                 "owner": "ohad6k",
                 "repo": "emulo",
                 "stars": 272
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenCode Orchestrator",
+              "description": "Multi-agent mission control for OpenCode with Commander, Planner, Worker, and Reviewer workflows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1133169851,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T14:53:40Z",
+                "owner": "agnusdei1207",
+                "repo": "opencode-orchestrator",
+                "stars": 228
               }
             },
             {
@@ -275,7 +305,7 @@
                 "archived": false,
                 "id": 1283603794,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T09:29:46Z",
+                "last_commit": "2026-08-25T02:27:17Z",
                 "owner": "beefiker",
                 "repo": "superloopy",
                 "stars": 109
@@ -293,7 +323,7 @@
                 "last_commit": "2026-08-14T06:36:11Z",
                 "owner": "labring",
                 "repo": "sealos-skills",
-                "stars": 75
+                "stars": 77
               }
             },
             {
@@ -308,7 +338,7 @@
                 "last_commit": "2026-08-17T13:17:46Z",
                 "owner": "archcore-ai",
                 "repo": "plugin",
-                "stars": 52
+                "stars": 53
               }
             },
             {
@@ -323,7 +353,7 @@
                 "last_commit": "2026-07-16T17:10:23Z",
                 "owner": "plastic-labs",
                 "repo": "codex-honcho",
-                "stars": 49
+                "stars": 50
               }
             },
             {
@@ -335,7 +365,7 @@
                 "archived": false,
                 "id": 1199817646,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T21:55:48Z",
+                "last_commit": "2026-08-25T06:11:04Z",
                 "owner": "Kanevry",
                 "repo": "session-orchestrator",
                 "stars": 48
@@ -413,7 +443,7 @@
                 "last_commit": "2026-07-09T16:35:47Z",
                 "owner": "Suraj1235",
                 "repo": "open-dynamic-workflows",
-                "stars": 31
+                "stars": 32
               }
             },
             {
@@ -458,6 +488,21 @@
                 "last_commit": "2026-08-23T17:42:42Z",
                 "owner": "PyModel",
                 "repo": "designer-skill",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Knowl",
+              "description": "Local-first project memory over MCP for Claude Code, Codex, Cursor and eight other hosts: a SQLite store that retires facts when they change, shares knowledge across linked repos, and retrieves it by hybrid search.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1279171235,
+                "language": "TypeScript",
+                "last_commit": "2026-08-25T03:43:47Z",
+                "owner": "dat999zx",
+                "repo": "knowl",
                 "stars": 27
               }
             },
@@ -575,7 +620,7 @@
                 "archived": false,
                 "id": 1261842465,
                 "language": "Python",
-                "last_commit": "2026-08-23T01:03:02Z",
+                "last_commit": "2026-08-24T22:53:39Z",
                 "owner": "mimfort",
                 "repo": "rag_for_git",
                 "stars": 21
@@ -643,6 +688,21 @@
             },
             {
               "node_type": "item",
+              "title": "MeMesh",
+              "description": "Local SQLite memory shared by Claude Code, Codex, Gemini, Cursor, and other MCP clients, captured automatically by hooks from real work and injected at the moment the agent acts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1175782049,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T15:13:22Z",
+                "owner": "PCIRCLE-AI",
+                "repo": "memesh",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
               "title": "BGS Modding Superpowers",
               "description": "Agentic Bethesda Game Studio modpack curation toolkit with MCP-driven xEdit conflict audit, MO2 control plane, BA2/BSA and Papyrus tooling, and skills for setup, dev-log, and release-changelog workflows.",
               "children": [],
@@ -650,7 +710,7 @@
                 "archived": false,
                 "id": 1211851755,
                 "language": "Python",
-                "last_commit": "2026-08-14T02:04:05Z",
+                "last_commit": "2026-08-24T18:33:32Z",
                 "owner": "BB-84C",
                 "repo": "bgs-modding-superpowers",
                 "stars": 14
@@ -868,6 +928,21 @@
             },
             {
               "node_type": "item",
+              "title": "LoreConvo",
+              "description": "Persistent session memory MCP server for Claude — auto-saves and recalls conversation context, decisions, and artifacts across Claude Code, chat, and other surfaces with full-text search.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1190816889,
+                "language": "Python",
+                "last_commit": "2026-08-20T01:09:33Z",
+                "owner": "labyrinth-analytics",
+                "repo": "loreconvo",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Spec-Driven Development",
               "description": "Three-phase Requirements → Design → Tasks workflow for Claude Code and Codex — EARS notation acceptance criteria, autonomous execution loop, cross-spec dependencies, and post-implementation acceptance testing.",
               "children": [],
@@ -879,6 +954,21 @@
                 "owner": "Habib0x0",
                 "repo": "spec-driven-plugin",
                 "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Agentic Ship",
+              "description": "Cross-host product-development toolkit for Claude Code, Codex, Cursor, Hermes, and OpenClaw with shared rules, specialist roles, service connections, and machine-checked UI, backend, security, and launch gates.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1322968369,
+                "language": "JavaScript",
+                "last_commit": "2026-08-23T01:41:10Z",
+                "owner": "moasq",
+                "repo": "agentic-ship",
+                "stars": 9
               }
             },
             {
@@ -1003,6 +1093,36 @@
             },
             {
               "node_type": "item",
+              "title": "Cover My Repo",
+              "description": "Designs three checked GitHub social preview cards with Codex or Cursor, then renders them locally with Chrome.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1339319939,
+                "language": "JavaScript",
+                "last_commit": "2026-08-23T12:28:07Z",
+                "owner": "sjh9714",
+                "repo": "cover-my-repo",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Agent Workflow System",
+              "description": "一套中文AI工作流系统：7个协作技能 + 行为规范宪法 + 会话恢复机制，模糊目标→可执行任务，全生命周期引导。Codex & Claude Code 双平台，新手友好。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1254984786,
+                "language": "PowerShell",
+                "last_commit": "2026-06-12T10:22:24Z",
+                "owner": "1139030773-cmd",
+                "repo": "agent-workflow-system",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
               "title": "ArmorCodex",
               "description": "Intent-based security for Codex with MCP plan registration, policy gating, CSRG cryptographic proofs, and audit logging on and .",
               "children": [],
@@ -1028,21 +1148,6 @@
                 "last_commit": "2026-05-09T08:09:40Z",
                 "owner": "Rycen7822",
                 "repo": "codex-rg-guard",
-                "stars": 5
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Cover My Repo",
-              "description": "Designs three checked GitHub social preview cards with Codex or Cursor, then renders them locally with Chrome.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1339319939,
-                "language": "JavaScript",
-                "last_commit": "2026-08-23T12:28:07Z",
-                "owner": "sjh9714",
-                "repo": "cover-my-repo",
                 "stars": 5
               }
             },
@@ -1115,25 +1220,10 @@
                 "archived": false,
                 "id": 1243798066,
                 "language": null,
-                "last_commit": "2026-08-18T18:55:43Z",
+                "last_commit": "2026-08-24T23:27:59Z",
                 "owner": "villagesql",
                 "repo": "villagesql-skills",
                 "stars": 5
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Agent Workflow System",
-              "description": "一套中文AI工作流系统：7个协作技能 + 行为规范宪法 + 会话恢复机制，模糊目标→可执行任务，全生命周期引导。Codex & Claude Code 双平台，新手友好。",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1254984786,
-                "language": "PowerShell",
-                "last_commit": "2026-06-12T10:22:24Z",
-                "owner": "1139030773-cmd",
-                "repo": "agent-workflow-system",
-                "stars": 4
               }
             },
             {
@@ -1148,6 +1238,36 @@
                 "last_commit": "2026-05-05T15:24:10Z",
                 "owner": "Humiris",
                 "repo": "wwa-transform",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HOL Guard Plugin",
+              "description": "AI antivirus workflow for Codex, Claude Code, Cursor, Gemini, OpenCode, MCP servers, skills, and plugin release checks with local approvals and receipts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1240712063,
+                "language": "JavaScript",
+                "last_commit": "2026-08-24T10:22:28Z",
+                "owner": "hashgraph-online",
+                "repo": "hol-guard-plugin",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LoreDocs",
+              "description": "Knowledge vault MCP server for Claude — organizes durable project docs, specs, and guides with FTS5 search, tagging, and cross-project context loading.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1190951601,
+                "language": "Python",
+                "last_commit": "2026-08-16T19:50:51Z",
+                "owner": "labyrinth-analytics",
+                "repo": "loredocs",
                 "stars": 4
               }
             },
@@ -1205,24 +1325,9 @@
                 "archived": false,
                 "id": 1324431490,
                 "language": "Python",
-                "last_commit": "2026-08-24T14:39:46Z",
+                "last_commit": "2026-08-25T06:05:30Z",
                 "owner": "GreenLv",
                 "repo": "codex-context-guard",
-                "stars": 3
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "HOL Guard Plugin",
-              "description": "AI antivirus workflow for Codex, Claude Code, Cursor, Gemini, OpenCode, MCP servers, skills, and plugin release checks with local approvals and receipts.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1240712063,
-                "language": "JavaScript",
-                "last_commit": "2026-08-24T10:22:28Z",
-                "owner": "hashgraph-online",
-                "repo": "hol-guard-plugin",
                 "stars": 3
               }
             },
@@ -1250,7 +1355,7 @@
                 "archived": false,
                 "id": 1253173685,
                 "language": "Shell",
-                "last_commit": "2026-08-23T19:04:40Z",
+                "last_commit": "2026-08-24T21:47:34Z",
                 "owner": "gustavo-meilus",
                 "repo": "aiboarding",
                 "stars": 2
@@ -1295,7 +1400,7 @@
                 "archived": false,
                 "id": 1303781222,
                 "language": "Python",
-                "last_commit": "2026-08-18T01:54:45Z",
+                "last_commit": "2026-08-25T01:54:48Z",
                 "owner": "ChannelerH",
                 "repo": "codex-skin-packs",
                 "stars": 2
@@ -1310,9 +1415,24 @@
                 "archived": false,
                 "id": 1315437195,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T03:24:06Z",
+                "last_commit": "2026-08-25T03:24:03Z",
                 "owner": "joelfarthing",
                 "repo": "codex-usage-and-resets",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Embedded Workbench",
+              "description": "Embedded C/C++ firmware development toolbox — 7 skills (FreeRTOS, Keil MDK, ARMCLANG, HardFault triage, state machines, LVGL) plus workflow gates and 4 agents for Claude Code, Codex, Cursor, Kimi, OpenCode, and ZCode.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1276714299,
+                "language": "JavaScript",
+                "last_commit": "2026-08-24T03:43:17Z",
+                "owner": "AmethystLuna",
+                "repo": "embedded-workbench",
                 "stars": 2
               }
             },
@@ -1325,7 +1445,7 @@
                 "archived": false,
                 "id": 1263163606,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T10:15:53Z",
+                "last_commit": "2026-08-24T17:15:11Z",
                 "owner": "vinicq",
                 "repo": "falsegreen-skill",
                 "stars": 2
@@ -1348,6 +1468,21 @@
             },
             {
               "node_type": "item",
+              "title": "Logic Probe",
+              "description": "Design-document & plan claim verification — checks every verifiable claim against the codebase, escalates behavioral claims to executable-model verification (7 structural checks + 7 adversarial probes), and compares before/after models for refactoring regression detection.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1331586818,
+                "language": "JavaScript",
+                "last_commit": "2026-08-24T03:43:36Z",
+                "owner": "AmethystLuna",
+                "repo": "logicprobe",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
               "title": "River Review",
               "description": "Versioned Skill Registry of code-review skills driven by a perspective-based review agent (code, security, performance, architecture, testing, adversarial) that verifies findings against the diff.",
               "children": [],
@@ -1355,7 +1490,7 @@
                 "archived": false,
                 "id": 1055879805,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T11:33:28Z",
+                "last_commit": "2026-08-25T06:23:07Z",
                 "owner": "s977043",
                 "repo": "river-review",
                 "stars": 2
@@ -1415,24 +1550,9 @@
                 "archived": false,
                 "id": 1288974700,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:39:38Z",
+                "last_commit": "2026-08-25T01:18:53Z",
                 "owner": "sh-ai-x",
                 "repo": "dev-harness-kit",
-                "stars": 1
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Embedded Workbench",
-              "description": "Embedded C/C++ firmware development toolbox — 7 skills (FreeRTOS, Keil MDK, ARMCLANG, HardFault triage, state machines, LVGL) plus workflow gates and 4 agents for Claude Code, Codex, Cursor, Kimi, OpenCode, and ZCode.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1276714299,
-                "language": "JavaScript",
-                "last_commit": "2026-08-24T03:43:17Z",
-                "owner": "AmethystLuna",
-                "repo": "embedded-workbench",
                 "stars": 1
               }
             },
@@ -1448,21 +1568,6 @@
                 "last_commit": "2026-08-22T21:32:35Z",
                 "owner": "blackwell-systems",
                 "repo": "gcf-codex-plugin",
-                "stars": 1
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Logic Probe",
-              "description": "Design-document & plan claim verification — checks every verifiable claim against the codebase, escalates behavioral claims to executable-model verification (7 structural checks + 7 adversarial probes), and compares before/after models for refactoring regression detection.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1331586818,
-                "language": "JavaScript",
-                "last_commit": "2026-08-24T03:43:36Z",
-                "owner": "AmethystLuna",
-                "repo": "logicprobe",
                 "stars": 1
               }
             },
@@ -1535,7 +1640,7 @@
                 "archived": false,
                 "id": 1235003667,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T15:35:01Z",
+                "last_commit": "2026-08-24T16:29:19Z",
                 "owner": "runtypelabs",
                 "repo": "skills",
                 "stars": 1
@@ -1583,6 +1688,21 @@
                 "last_commit": "2026-08-21T13:33:55Z",
                 "owner": "MiguelMedeiros",
                 "repo": "unforgit-codex-plugin",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Unity Agent Workflows",
+              "description": "Codex plugin and skill for Unity 2D agents that enforces \"No proof, no edit\" workflows with runtime-owner proof, Teach structure maps, and validation gates.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1236613627,
+                "language": "Shell",
+                "last_commit": "2026-05-19T15:37:34Z",
+                "owner": "AUN-PN",
+                "repo": "unity-agent-workflows",
                 "stars": 1
               }
             },
@@ -1735,21 +1855,6 @@
                 "repo": "tree-ring-memory-codex-plugin",
                 "stars": 0
               }
-            },
-            {
-              "node_type": "item",
-              "title": "Unity Agent Workflows",
-              "description": "Codex plugin and skill for Unity 2D agents that enforces \"No proof, no edit\" workflows with runtime-owner proof, Teach structure maps, and validation gates.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1236613627,
-                "language": "Shell",
-                "last_commit": "2026-05-19T15:37:34Z",
-                "owner": "AUN-PN",
-                "repo": "unity-agent-workflows",
-                "stars": 0
-              }
             }
           ],
           "description": null,
@@ -1767,10 +1872,25 @@
                 "archived": false,
                 "id": 1212503250,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T06:21:34Z",
+                "last_commit": "2026-08-25T04:30:52Z",
                 "owner": "citrolabs",
                 "repo": "ego-lite",
-                "stars": 13158
+                "stars": 13321
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CloudBase AI Toolkit",
+              "description": "Backend for AI coding agents on Tencent CloudBase — database, auth, and functions via Plugin, Skills & MCP.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 988892963,
+                "language": "TypeScript",
+                "last_commit": "2026-08-25T04:57:51Z",
+                "owner": "TencentCloudBase",
+                "repo": "CloudBase-AI-Toolkit",
+                "stars": 1074
               }
             },
             {
@@ -1785,7 +1905,7 @@
                 "last_commit": "2026-08-20T23:05:13Z",
                 "owner": "aklofas",
                 "repo": "kicad-happy",
-                "stars": 1008
+                "stars": 1009
               }
             },
             {
@@ -1800,7 +1920,7 @@
                 "last_commit": "2026-08-17T10:50:14Z",
                 "owner": "indranilbanerjee",
                 "repo": "digital-marketing-pro",
-                "stars": 767
+                "stars": 768
               }
             },
             {
@@ -1815,7 +1935,7 @@
                 "last_commit": "2026-08-10T12:50:35Z",
                 "owner": "GarethManning",
                 "repo": "education-agent-skills",
-                "stars": 669
+                "stars": 684
               }
             },
             {
@@ -1830,7 +1950,7 @@
                 "last_commit": "2026-08-22T20:46:14Z",
                 "owner": "sergebulaev",
                 "repo": "linkedin-skills",
-                "stars": 587
+                "stars": 589
               }
             },
             {
@@ -1860,7 +1980,7 @@
                 "last_commit": "2026-08-17T07:01:48Z",
                 "owner": "talkstream",
                 "repo": "ru-text",
-                "stars": 214
+                "stars": 215
               }
             },
             {
@@ -1875,7 +1995,7 @@
                 "last_commit": "2026-08-21T06:15:03Z",
                 "owner": "avivsinai",
                 "repo": "bitbucket-cli",
-                "stars": 193
+                "stars": 194
               }
             },
             {
@@ -1902,7 +2022,7 @@
                 "archived": false,
                 "id": 1168120544,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T02:12:22Z",
+                "last_commit": "2026-08-25T03:15:15Z",
                 "owner": "Xquik-dev",
                 "repo": "x-twitter-scraper",
                 "stars": 187
@@ -1962,7 +2082,7 @@
                 "archived": false,
                 "id": 1206570114,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T02:35:47Z",
+                "last_commit": "2026-08-25T05:54:29Z",
                 "owner": "CALLE-AI",
                 "repo": "call-e-integrations",
                 "stars": 85
@@ -1977,7 +2097,7 @@
                 "archived": false,
                 "id": 1122637774,
                 "language": "Go",
-                "last_commit": "2026-08-23T19:17:57Z",
+                "last_commit": "2026-08-25T04:59:23Z",
                 "owner": "avivsinai",
                 "repo": "agent-message-queue",
                 "stars": 82
@@ -2000,6 +2120,21 @@
             },
             {
               "node_type": "item",
+              "title": "Cortex",
+              "description": "Persistent thermodynamic memory and cognitive-profiling MCP server for Claude Code, Codex, and Gemini CLI — heat/decay dynamics, predictive-coding write gates, knowledge graph, and intent-aware recall across sessions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1185234162,
+                "language": "Python",
+                "last_commit": "2026-08-24T19:11:08Z",
+                "owner": "cdeust",
+                "repo": "Cortex",
+                "stars": 71
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Talivia Agent Kit",
               "description": "Install and verify revenue-first website analytics from Codex, connect payment attribution, and identify which traffic sources and customer journeys become revenue.",
               "children": [],
@@ -2015,17 +2150,17 @@
             },
             {
               "node_type": "item",
-              "title": "ScrapeGraph AI",
-              "description": "AI-powered web scraping CLI to search, scrape, extract structured JSON, crawl, and monitor web pages via the ScrapeGraph AI API.",
+              "title": "Azure Cosmos DB Agent Kit",
+              "description": "Azure Cosmos DB best-practice skills and MCP tooling for Codex, Claude Code, Cursor, Gemini CLI, Grok Build, Kimi Code, GitHub Copilot, and other Agent Skills-compatible assistants.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "id": 1148877582,
-                "language": "TypeScript",
-                "last_commit": "2026-08-17T20:16:06Z",
-                "owner": "ScrapeGraphAI",
-                "repo": "just-scrape",
-                "stars": 49
+                "id": 1139063181,
+                "language": "Python",
+                "last_commit": "2026-08-24T09:06:30Z",
+                "owner": "AzureCosmosDB",
+                "repo": "cosmosdb-agent-kit",
+                "stars": 53
               }
             },
             {
@@ -2040,6 +2175,21 @@
                 "last_commit": "2026-08-21T18:28:41Z",
                 "owner": "sergebulaev",
                 "repo": "x-skills",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ScrapeGraph AI",
+              "description": "AI-powered web scraping CLI to search, scrape, extract structured JSON, crawl, and monitor web pages via the ScrapeGraph AI API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1148877582,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T20:14:34Z",
+                "owner": "ScrapeGraphAI",
+                "repo": "just-scrape",
                 "stars": 49
               }
             },
@@ -2105,6 +2255,21 @@
             },
             {
               "node_type": "item",
+              "title": "Hermes Tweet",
+              "description": "Hermes Agent X/Twitter plugin for read-first social research, monitoring, and approval-gated actions through Xquik.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1230366935,
+                "language": "Python",
+                "last_commit": "2026-08-24T18:52:44Z",
+                "owner": "Xquik-dev",
+                "repo": "hermes-tweet",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
               "title": "MorningAI",
               "description": "AI news tracking skill that monitors 80+ entities across 6 sources (Reddit, HN, GitHub, Hugging Face, arXiv, X) and generates scored daily reports with infographics and message digests.",
               "children": [],
@@ -2116,21 +2281,6 @@
                 "owner": "octo-patch",
                 "repo": "MorningAI",
                 "stars": 29
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Hermes Tweet",
-              "description": "Hermes Agent X/Twitter plugin for read-first social research, monitoring, and approval-gated actions through Xquik.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1230366935,
-                "language": "Python",
-                "last_commit": "2026-08-20T23:58:56Z",
-                "owner": "Xquik-dev",
-                "repo": "hermes-tweet",
-                "stars": 28
               }
             },
             {
@@ -2232,7 +2382,7 @@
                 "archived": false,
                 "id": 1171060534,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T05:02:37Z",
+                "last_commit": "2026-08-24T16:55:24Z",
                 "owner": "getcargohq",
                 "repo": "cargo-skills",
                 "stars": 15
@@ -2367,7 +2517,7 @@
                 "archived": false,
                 "id": 1270714989,
                 "language": "Rust",
-                "last_commit": "2026-08-24T11:32:16Z",
+                "last_commit": "2026-08-24T16:45:16Z",
                 "owner": "lacs-project",
                 "repo": "sysknife",
                 "stars": 8
@@ -2457,7 +2607,7 @@
                 "archived": false,
                 "id": 1222678439,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T14:40:20Z",
+                "last_commit": "2026-08-25T06:09:05Z",
                 "owner": "happy520ai",
                 "repo": "unified-ai-system",
                 "stars": 6
@@ -2652,7 +2802,7 @@
                 "archived": false,
                 "id": 1291321286,
                 "language": "Python",
-                "last_commit": "2026-08-18T03:10:36Z",
+                "last_commit": "2026-08-25T03:06:36Z",
                 "owner": "michael-L-i",
                 "repo": "cadence-code",
                 "stars": 2
@@ -2712,7 +2862,7 @@
                 "archived": false,
                 "id": 1193287934,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T01:53:47Z",
+                "last_commit": "2026-08-25T03:36:22Z",
                 "owner": "useorgx",
                 "repo": "orgx-codex-plugin",
                 "stars": 2
@@ -2757,7 +2907,7 @@
                 "archived": false,
                 "id": 1287059999,
                 "language": "Python",
-                "last_commit": "2026-08-13T13:31:16Z",
+                "last_commit": "2026-08-25T06:21:07Z",
                 "owner": "alelaguard",
                 "repo": "agentguards-plugins",
                 "stars": 1
@@ -2847,7 +2997,7 @@
                 "archived": false,
                 "id": 1280034005,
                 "language": null,
-                "last_commit": "2026-08-17T21:25:15Z",
+                "last_commit": "2026-08-24T21:25:23Z",
                 "owner": "ophis-fi",
                 "repo": "skills",
                 "stars": 1
@@ -3082,6 +3232,50 @@
           "description": null,
           "node_type": "group",
           "title": "Tools & Integrations"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "deja",
+              "description": "Recalls the sessions the other coding agents on the machine already wrote to disk, including work from before it was installed, through MCP tools, a command and recall on every prompt.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1300173275,
+                "language": "Go",
+                "last_commit": "2026-08-25T06:31:38Z",
+                "owner": "vshulcz",
+                "repo": "deja-vu",
+                "stars": 712
+              }
+            }
+          ],
+          "description": "Kimi Code plugins package skills, agents, and MCP servers for the Kimi runtime. Depending on the plugin version, a repository can expose or ; install a GitHub repository with Kimi Code's command. Add verified community plugins here in alphabetical order. See the official Kimi plugin documentation before submitting.",
+          "node_type": "group",
+          "title": "Kimi Plugins"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "dsh-deja",
+              "description": "Brings the session history of nineteen other coding agents into DeepSeek Harness: recall, session digest and per-file history tools over a local index, plus optional automatic recall.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1300173275,
+                "language": "Go",
+                "last_commit": "2026-08-25T06:31:38Z",
+                "owner": "vshulcz",
+                "repo": "deja-vu",
+                "stars": 712
+              }
+            }
+          ],
+          "description": "DeepSeek Harness (DSH) plugins are Cordis modules or npm packages that expose a manifest and can be installed with . Add verified community plugins here in alphabetical order. See the official DeepSeek Harness plugin tutorial and the community topic before submitting a repository.",
+          "node_type": "group",
+          "title": "DeepSeek Harness Plugins"
         }
       ],
       "title": "Community Plugins"
@@ -3098,10 +3292,10 @@
             "archived": false,
             "id": 1333175049,
             "language": "Python",
-            "last_commit": "2026-08-24T14:35:13Z",
+            "last_commit": "2026-08-25T03:56:33Z",
             "owner": "awesome-dsh-plugin",
             "repo": "awesome-dsh-plugin",
-            "stars": 12188
+            "stars": 12390
           }
         },
         {
@@ -3113,10 +3307,10 @@
             "archived": false,
             "id": 1246459259,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:31:11Z",
+            "last_commit": "2026-08-25T06:12:50Z",
             "owner": "MoonshotAI",
             "repo": "kimi-code",
-            "stars": 7045
+            "stars": 7053
           }
         },
         {
@@ -3131,7 +3325,7 @@
             "last_commit": "2026-08-22T16:56:45Z",
             "owner": "hashgraph-online",
             "repo": "awesome-codex-plugins",
-            "stars": 838
+            "stars": 839
           }
         },
         {
@@ -3143,10 +3337,10 @@
             "archived": false,
             "id": 1240118170,
             "language": "Python",
-            "last_commit": "2026-08-22T21:21:34Z",
+            "last_commit": "2026-08-24T18:52:18Z",
             "owner": "xai-org",
             "repo": "plugin-marketplace",
-            "stars": 175
+            "stars": 181
           }
         }
       ],
@@ -3154,10 +3348,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:40:55.231Z",
+    "last_updated": "2026-08-25T06:33:50.428Z",
     "original_repository": "hashgraph-online/awesome-ai-plugins",
     "original_repository_id": 1204165322,
-    "original_repository_sha": "2820f9200e56528e3816eed975b2c64709088f05",
+    "original_repository_sha": "7024c84d16087157d6f7080311fc7f9bf45dccfd",
     "enhanced_repository": "enhansome/enhansome-ai-plugins",
     "enhanced_repository_description": null,
     "title": "Awesome ai plugins with stars"
